@@ -1,0 +1,13 @@
+#======================================================
+#  RuleMesh Rule Set (Loon)
+#  Service:    TikTok
+#  Generated:  2026-08-19T19:44:05.525Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:8d5aaad48b98ba10c649f5383f79d1183ac45399
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1  DOMAIN×1  IP-CIDR×1
+#======================================================
+
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN,musical.ly
+IP-CIDR,23.200.0.0/13

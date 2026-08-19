@@ -1,0 +1,12 @@
+#======================================================
+#  RuleMesh Rule Set (Loon)
+#  Service:    Netflix
+#  Generated:  2026-08-19T19:44:05.591Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:8834194ec9a59770afbd78f548f0644211810d1c
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×2
+#======================================================
+
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,nflxvideo.net
