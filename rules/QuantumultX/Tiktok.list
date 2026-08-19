@@ -1,0 +1,43 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Tiktok
+#  Generated:  2026-08-19T21:37:07.964Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:c6f11d22aaaf62f3eacba2726d09c445268659fc
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×25  DOMAIN×4  DOMAIN-KEYWORD×2  PROCESS-NAME×1
+#======================================================
+
+host,lf16-effectcdn.byteeffecttos-g.com
+host,lf16-pkgcdn.pitaya-clientai.com
+host,p16-tiktokcdn-com.akamaized.net
+host,trae-api-sg.mchost.guru
+host-suffix,bytedapm.com
+host-suffix,bytegecko-i18n.com
+host-suffix,byteintlapi.com
+host-suffix,byteoversea.com
+host-suffix,capcut.com
+host-suffix,ibytedtos.com
+host-suffix,ibyteimg.com
+host-suffix,ipstatp.com
+host-suffix,isnssdk.com
+host-suffix,marscode.com
+host-suffix,muscdn.com
+host-suffix,musical.ly
+host-suffix,sgpstatp.com
+host-suffix,snssdk.com
+host-suffix,tik-tokapi.com
+host-suffix,tiktok.com
+host-suffix,tiktokcdn-us.com
+host-suffix,tiktokcdn.com
+host-suffix,tiktokd.net
+host-suffix,tiktokd.org
+host-suffix,tiktokmusic.app
+host-suffix,tiktokv.com
+host-suffix,tiktokv.us
+host-suffix,trae.ai
+host-suffix,ttwebview.com
+host-keyword,musical.ly
+host-keyword,tiktok
+
+# note: 1 rule(s) unsupported by QuantumultX, skipped
