@@ -1,16 +1,15 @@
 #======================================================
 #  RuleMesh Rule Set (Loon)
 #  Service:    Netflix
-#  Generated:  2026-08-19T20:14:52.359Z
+#  Generated:  2026-08-19T20:18:21.299Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:28e6e3c09abb7e37f652de20d27579788ae18750
+#  Fingerprint:87f151fe2a948105406036457976cbbfef82ad2e
 #------------------------------------------------------
-#  Types:      IP-CIDR×1115  DOMAIN-SUFFIX×30  DOMAIN-KEYWORD×4  IP-CIDR6×4  DOMAIN×3  PROCESS-NAME×1
+#  Types:      IP-CIDR×1115  DOMAIN-SUFFIX×30  DOMAIN-KEYWORD×4  IP-CIDR6×4  DOMAIN×2  PROCESS-NAME×1
 #======================================================
 
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
-DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,flxvpn.net

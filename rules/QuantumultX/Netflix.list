@@ -1,16 +1,15 @@
 #======================================================
 #  RuleMesh Rule Set (QuantumultX)
 #  Service:    Netflix
-#  Generated:  2026-08-19T20:14:52.360Z
+#  Generated:  2026-08-19T20:18:21.300Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:28e6e3c09abb7e37f652de20d27579788ae18750
+#  Fingerprint:87f151fe2a948105406036457976cbbfef82ad2e
 #------------------------------------------------------
-#  Types:      IP-CIDR×1115  DOMAIN-SUFFIX×30  DOMAIN-KEYWORD×4  IP-CIDR6×4  DOMAIN×3  PROCESS-NAME×1
+#  Types:      IP-CIDR×1115  DOMAIN-SUFFIX×30  DOMAIN-KEYWORD×4  IP-CIDR6×4  DOMAIN×2  PROCESS-NAME×1
 #======================================================
 
 host,e13252.dscg.akamaiedge.net
 host,h-netflix.online-metrix.net
-host,netflix.com.edgesuite.net
 host-suffix,cookielaw.org
 host-suffix,fast.com
 host-suffix,flxvpn.net
