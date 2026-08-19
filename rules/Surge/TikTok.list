@@ -1,14 +1,13 @@
 #==========================================================
 #  RuleMesh Rule Set
-#  Service:    Telegram
-#  Generated:  2026-08-19T19:44:05.598Z
+#  Service:    TikTok
+#  Generated:  2026-08-19T19:48:27.006Z
 #  Version:    1
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:5ef5ad576c3e1fd01eee0a80f34358c31b73ca58
+#  Fingerprint:5887e32fd02975d0ff23734e50b9d064fa19c821
 #----------------------------------------------------------
-#  Types:      DOMAIN-SUFFIX×1  DOMAIN-KEYWORD×1  IP-CIDR×1
+#  Types:      DOMAIN-SUFFIX×1  DOMAIN×1
 #==========================================================
 
-DOMAIN-SUFFIX,t.me
-DOMAIN-KEYWORD,telegram
-IP-CIDR,91.108.56.0/22
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN,musical.ly

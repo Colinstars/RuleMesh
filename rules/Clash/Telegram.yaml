@@ -1,7 +1,7 @@
 #======================================================
-#  RuleMesh Rule Set (Loon)
+#  RuleMesh Rule Set (Clash)
 #  Service:    Telegram
-#  Generated:  2026-08-19T19:44:05.600Z
+#  Generated:  2026-08-19T19:48:27.018Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
 #  Fingerprint:5ef5ad576c3e1fd01eee0a80f34358c31b73ca58
 #------------------------------------------------------
@@ -10,4 +10,4 @@
 
 DOMAIN-SUFFIX,t.me
 DOMAIN-KEYWORD,telegram
-IP-CIDR,91.108.56.0/22
+IP-CIDR,91.108.56.0/22,no-resolve
