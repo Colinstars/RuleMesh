@@ -1,0 +1,62 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    AppleMedia
+#  Generated:  2026-08-20T22:20:48.201Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:bd363b6dd62313e9ed82df7fb9569f85f51e24d9
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×52
+#======================================================
+
+host-suffix,aod.itunes.apple.com
+host-suffix,apple.comscoreresearch.com
+host-suffix,apple.news
+host-suffix,appleenews.com
+host-suffix,applemusic.berlin
+host-suffix,applemusic.co
+host-suffix,applemusic.com
+host-suffix,applemusic.com.au
+host-suffix,applemusic.hamburg
+host-suffix,applemusic.wang
+host-suffix,applemusicconnect.com
+host-suffix,applemusicfestival.com
+host-suffix,applenews.berlin
+host-suffix,applenews.hamburg
+host-suffix,applenews.tv
+host-suffix,applenewsformat.com
+host-suffix,appletv.com
+host-suffix,appletv.fr
+host-suffix,appletv.wang
+host-suffix,appletv4.cn
+host-suffix,appletv4.com.cn
+host-suffix,appletvapp.apple
+host-suffix,audio-ssl.itunes.apple.com
+host-suffix,audio.itunes.apple.com
+host-suffix,blobstore.apple.com
+host-suffix,hls-amt.itunes.apple.com
+host-suffix,hls.itunes.apple.com
+host-suffix,i-book.com
+host-suffix,i-book.net
+host-suffix,ibook.co.nz
+host-suffix,ibook.com
+host-suffix,ibook.eu
+host-suffix,ibook.net
+host-suffix,ibookpartner.com
+host-suffix,ibooksauthor.com
+host-suffix,imovie.eu
+host-suffix,imoviegallery.com
+host-suffix,imoviestage.com
+host-suffix,iphoto.eu
+host-suffix,iphoto.no
+host-suffix,iphoto.se
+host-suffix,iphoto.wang
+host-suffix,musickit.net
+host-suffix,mvod.itunes.apple.com
+host-suffix,news-assets.apple.com
+host-suffix,news-client.apple.com
+host-suffix,news-edge.apple.com
+host-suffix,news-events.apple.com
+host-suffix,play-edge.itunes.apple.com
+host-suffix,streamingaudio.itunes.apple.com
+host-suffix,tv.apple.com
+host-suffix,wwwapplemusic.com

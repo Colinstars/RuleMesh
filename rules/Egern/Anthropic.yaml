@@ -1,0 +1,15 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Anthropic
+#  Generated:  2026-08-20T22:20:48.334Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:88c58e11e2cf82da40ce4836c90f4abdfb0b55cc
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×2  DOMAIN×1
+#==========================================================
+
+domain_set:
+  - "servd-anthropic-website.b-cdn.net"
+domain_suffix_set:
+  - "anthropic.com"
+  - "claude.ai"

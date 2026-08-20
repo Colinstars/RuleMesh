@@ -1,0 +1,23 @@
+#======================================================
+#  RuleMesh Rule Set (Clash)
+#  Service:    Gemini
+#  Generated:  2026-08-20T22:20:48.129Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:e4d5cbc7b3f3a0f473c77d4bbe1c60bddbb46f59
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×7  DOMAIN×3  DOMAIN-KEYWORD×3
+#======================================================
+
+DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage

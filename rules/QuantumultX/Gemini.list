@@ -1,0 +1,23 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Gemini
+#  Generated:  2026-08-20T22:20:48.228Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:e4d5cbc7b3f3a0f473c77d4bbe1c60bddbb46f59
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×7  DOMAIN×3  DOMAIN-KEYWORD×3
+#======================================================
+
+host,ai.google.dev
+host,alkalimakersuite-pa.clients6.google.com
+host,makersuite.google.com
+host-suffix,bard.google.com
+host-suffix,deepmind.com
+host-suffix,deepmind.google
+host-suffix,gemini.google.com
+host-suffix,generativeai.google
+host-suffix,proactivebackend-pa.googleapis.com
+host-suffix,apis.google.com
+host-keyword,colab
+host-keyword,developerprofiles
+host-keyword,generativelanguage

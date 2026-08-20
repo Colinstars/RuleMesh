@@ -1,0 +1,51 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    AppleProxy
+#  Generated:  2026-08-20T22:20:48.202Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:0df9a2d4697b8c6a9aba97468096bf30af25116e
+#------------------------------------------------------
+#  Types:      DOMAIN×27  DOMAIN-SUFFIX×12  PROCESS-NAME×1
+#======================================================
+
+host,api-glb-sea.smoot.apple.com
+host,apple.comscoreresearch.com
+host,books.itunes.apple.com
+host,cdn.apple-cloudkit.com
+host,cvws.icloud-content.com
+host,developer.apple.com
+host,devimages-cdn.apple.com
+host,devstreaming-cdn.apple.com
+host,docs-assets.developer.apple.com
+host,gspe1-ssl.ls.apple.com
+host,hls-svod.itunes.apple.com
+host,itunes.apple.com
+host,js-cdn.music.apple.com
+host,lookup-api.apple.com
+host,mask-api.icloud.com
+host,mask-h2.icloud.com
+host,mask.icloud.com
+host,news-assets.apple.com
+host,news-client.apple.com
+host,news-edge.apple.com
+host,news-events.apple.com
+host,np-edge.itunes.apple.com
+host,play-edge.itunes.apple.com
+host,sandbox.itunes.apple.com
+host,testflight.apple.com
+host,tv.applemusic.com
+host,uts-api.itunes.apple.com
+host-suffix,apple-dns.net
+host-suffix,apple.news
+host-suffix,apps.apple.com
+host-suffix,appsto.re
+host-suffix,audio-ssl.itunes.apple.com
+host-suffix,blobstore.apple.com
+host-suffix,cdn-apple.com
+host-suffix,digicert.com
+host-suffix,hls-amt.itunes.apple.com
+host-suffix,hls.itunes.apple.com
+host-suffix,ocsp.apple.com
+host-suffix,tv.apple.com
+
+# note: 1 rule(s) unsupported by QuantumultX, skipped: PROCESS-NAME×1

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:12:08.516Z",
+  "generatedAt": "2026-08-20T22:20:48.378Z",
   "version": 1,
   "services": [
     "360",
@@ -8,8 +8,11 @@
     "AliPay",
     "Amazon",
     "AmazonPrimeVideo",
+    "Anthropic",
     "Apple",
+    "AppleMedia",
     "AppleMusic",
+    "AppleProxy",
     "AppleTV",
     "BBC",
     "Baidu",
@@ -20,7 +23,11 @@
     "Bloomberg",
     "CNN",
     "China",
+    "ChinaIPs",
+    "ChinaMedia",
+    "ChinaNoMedia",
     "Cloudflare",
+    "Copilot",
     "Dailymotion",
     "Deezer",
     "DiDi",
@@ -36,8 +43,12 @@
     "Facebook",
     "Figma",
     "FuboTV",
+    "Game",
+    "Gemini",
     "GitHub",
     "GitLab",
+    "Global",
+    "GlobalMedia",
     "Gog",
     "Google",
     "GoogleDrive",
@@ -65,6 +76,7 @@
     "Pinterest",
     "PlayStation",
     "PrimeVideo",
+    "Proxy",
     "Reddit",
     "Rockstar",
     "Salesforce",
@@ -83,6 +95,7 @@
     "Tumblr",
     "Twitch",
     "Twitter",
+    "USMedia",
     "Ubisoft",
     "VK",
     "Vercel",
@@ -108,8 +121,8 @@
     "Shadowrocket",
     "Egern"
   ],
-  "files": 679,
-  "rules": 7515,
+  "files": 770,
+  "rules": 32454,
   "byService": {
     "360": [
       "Surge/360.list",
@@ -165,6 +178,15 @@
       "Shadowrocket/AmazonPrimeVideo_Resolve.list",
       "Egern/AmazonPrimeVideo.yaml"
     ],
+    "Anthropic": [
+      "Surge/Anthropic.list",
+      "Clash/Anthropic.yaml",
+      "Loon/Anthropic.list",
+      "QuantumultX/Anthropic.list",
+      "Shadowrocket/Anthropic.list",
+      "Shadowrocket/Anthropic_Resolve.list",
+      "Egern/Anthropic.yaml"
+    ],
     "Apple": [
       "Surge/Apple.list",
       "Clash/Apple.yaml",
@@ -174,6 +196,15 @@
       "Shadowrocket/Apple_Resolve.list",
       "Egern/Apple.yaml"
     ],
+    "AppleMedia": [
+      "Surge/AppleMedia.list",
+      "Clash/AppleMedia.yaml",
+      "Loon/AppleMedia.list",
+      "QuantumultX/AppleMedia.list",
+      "Shadowrocket/AppleMedia.list",
+      "Shadowrocket/AppleMedia_Resolve.list",
+      "Egern/AppleMedia.yaml"
+    ],
     "AppleMusic": [
       "Surge/AppleMusic.list",
       "Clash/AppleMusic.yaml",
@@ -182,6 +213,15 @@
       "Shadowrocket/AppleMusic.list",
       "Shadowrocket/AppleMusic_Resolve.list",
       "Egern/AppleMusic.yaml"
+    ],
+    "AppleProxy": [
+      "Surge/AppleProxy.list",
+      "Clash/AppleProxy.yaml",
+      "Loon/AppleProxy.list",
+      "QuantumultX/AppleProxy.list",
+      "Shadowrocket/AppleProxy.list",
+      "Shadowrocket/AppleProxy_Resolve.list",
+      "Egern/AppleProxy.yaml"
     ],
     "AppleTV": [
       "Surge/AppleTV.list",
@@ -273,6 +313,33 @@
       "Shadowrocket/China_Resolve.list",
       "Egern/China.yaml"
     ],
+    "ChinaIPs": [
+      "Surge/ChinaIPs.list",
+      "Clash/ChinaIPs.yaml",
+      "Loon/ChinaIPs.list",
+      "QuantumultX/ChinaIPs.list",
+      "Shadowrocket/ChinaIPs.list",
+      "Shadowrocket/ChinaIPs_Resolve.list",
+      "Egern/ChinaIPs.yaml"
+    ],
+    "ChinaMedia": [
+      "Surge/ChinaMedia.list",
+      "Clash/ChinaMedia.yaml",
+      "Loon/ChinaMedia.list",
+      "QuantumultX/ChinaMedia.list",
+      "Shadowrocket/ChinaMedia.list",
+      "Shadowrocket/ChinaMedia_Resolve.list",
+      "Egern/ChinaMedia.yaml"
+    ],
+    "ChinaNoMedia": [
+      "Surge/ChinaNoMedia.list",
+      "Clash/ChinaNoMedia.yaml",
+      "Loon/ChinaNoMedia.list",
+      "QuantumultX/ChinaNoMedia.list",
+      "Shadowrocket/ChinaNoMedia.list",
+      "Shadowrocket/ChinaNoMedia_Resolve.list",
+      "Egern/ChinaNoMedia.yaml"
+    ],
     "Cloudflare": [
       "Surge/Cloudflare.list",
       "Clash/Cloudflare.yaml",
@@ -281,6 +348,15 @@
       "Shadowrocket/Cloudflare.list",
       "Shadowrocket/Cloudflare_Resolve.list",
       "Egern/Cloudflare.yaml"
+    ],
+    "Copilot": [
+      "Surge/Copilot.list",
+      "Clash/Copilot.yaml",
+      "Loon/Copilot.list",
+      "QuantumultX/Copilot.list",
+      "Shadowrocket/Copilot.list",
+      "Shadowrocket/Copilot_Resolve.list",
+      "Egern/Copilot.yaml"
     ],
     "Dailymotion": [
       "Surge/Dailymotion.list",
@@ -417,6 +493,24 @@
       "Shadowrocket/FuboTV_Resolve.list",
       "Egern/FuboTV.yaml"
     ],
+    "Game": [
+      "Surge/Game.list",
+      "Clash/Game.yaml",
+      "Loon/Game.list",
+      "QuantumultX/Game.list",
+      "Shadowrocket/Game.list",
+      "Shadowrocket/Game_Resolve.list",
+      "Egern/Game.yaml"
+    ],
+    "Gemini": [
+      "Surge/Gemini.list",
+      "Clash/Gemini.yaml",
+      "Loon/Gemini.list",
+      "QuantumultX/Gemini.list",
+      "Shadowrocket/Gemini.list",
+      "Shadowrocket/Gemini_Resolve.list",
+      "Egern/Gemini.yaml"
+    ],
     "GitHub": [
       "Surge/GitHub.list",
       "Clash/GitHub.yaml",
@@ -434,6 +528,24 @@
       "Shadowrocket/GitLab.list",
       "Shadowrocket/GitLab_Resolve.list",
       "Egern/GitLab.yaml"
+    ],
+    "Global": [
+      "Surge/Global.list",
+      "Clash/Global.yaml",
+      "Loon/Global.list",
+      "QuantumultX/Global.list",
+      "Shadowrocket/Global.list",
+      "Shadowrocket/Global_Resolve.list",
+      "Egern/Global.yaml"
+    ],
+    "GlobalMedia": [
+      "Surge/GlobalMedia.list",
+      "Clash/GlobalMedia.yaml",
+      "Loon/GlobalMedia.list",
+      "QuantumultX/GlobalMedia.list",
+      "Shadowrocket/GlobalMedia.list",
+      "Shadowrocket/GlobalMedia_Resolve.list",
+      "Egern/GlobalMedia.yaml"
     ],
     "Gog": [
       "Surge/Gog.list",
@@ -678,6 +790,15 @@
       "Shadowrocket/PrimeVideo_Resolve.list",
       "Egern/PrimeVideo.yaml"
     ],
+    "Proxy": [
+      "Surge/Proxy.list",
+      "Clash/Proxy.yaml",
+      "Loon/Proxy.list",
+      "QuantumultX/Proxy.list",
+      "Shadowrocket/Proxy.list",
+      "Shadowrocket/Proxy_Resolve.list",
+      "Egern/Proxy.yaml"
+    ],
     "Reddit": [
       "Surge/Reddit.list",
       "Clash/Reddit.yaml",
@@ -839,6 +960,15 @@
       "Shadowrocket/Twitter.list",
       "Shadowrocket/Twitter_Resolve.list",
       "Egern/Twitter.yaml"
+    ],
+    "USMedia": [
+      "Surge/USMedia.list",
+      "Clash/USMedia.yaml",
+      "Loon/USMedia.list",
+      "QuantumultX/USMedia.list",
+      "Shadowrocket/USMedia.list",
+      "Shadowrocket/USMedia_Resolve.list",
+      "Egern/USMedia.yaml"
     ],
     "Ubisoft": [
       "Surge/Ubisoft.list",
