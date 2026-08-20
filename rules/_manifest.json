@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-08-20T20:35:39.276Z",
+  "generatedAt": "2026-08-20T20:38:14.716Z",
   "version": 1,
   "services": [
+    "China",
     "Netflix",
     "Spotify",
     "Telegram",
@@ -15,9 +16,18 @@
     "Shadowrocket",
     "Egern"
   ],
-  "files": 28,
-  "rules": 1263,
+  "files": 35,
+  "rules": 1295,
   "byService": {
+    "China": [
+      "Surge/China.list",
+      "Clash/China.yaml",
+      "Loon/China.list",
+      "QuantumultX/China.list",
+      "Shadowrocket/China.list",
+      "Shadowrocket/China_Resolve.list",
+      "Egern/China.yaml"
+    ],
     "Netflix": [
       "Surge/Netflix.list",
       "Clash/Netflix.yaml",
