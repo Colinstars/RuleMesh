@@ -1,0 +1,15 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Rockstar
+#  Generated:  2026-08-20T22:12:08.432Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:0cd47a59dc4b8c19b13640d111f76550f7cfe281
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×5
+#======================================================
+
+host-suffix,gamedownloads-rockstargames-com.akamaized.net
+host-suffix,media-rockstargames-com.akamaized.net
+host-suffix,rockstargames.com
+host-suffix,rsg.sc
+host-suffix,videos-rockstargames-com.akamaized.net

@@ -1,0 +1,22 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Binance
+#  Generated:  2026-08-20T22:12:08.411Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:974d218019b315e1721f92b2a743261245b2a8ef
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×12
+#======================================================
+
+host-suffix,appsflayer.com
+host-suffix,binance.cloud
+host-suffix,binance.com
+host-suffix,binance.me
+host-suffix,binancecnt.com
+host-suffix,binancefuture.com
+host-suffix,bnappzh.co
+host-suffix,bnbstatic.com
+host-suffix,bnbzh.ac
+host-suffix,bntrace.com
+host-suffix,saasexch.cc
+host-suffix,saasexch.com

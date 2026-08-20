@@ -1,0 +1,25 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    DouYin
+#  Generated:  2026-08-20T22:12:08.501Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a437aa6070b5ce600c0b26a784275b85cc572d6e
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×11  DOMAIN×2
+#==========================================================
+
+domain_set:
+  - "lf3-static.bytednsdoc.com"
+  - "v5-dy-o-abtest.zjcdn.com"
+domain_suffix_set:
+  - "amemv.com"
+  - "douyincdn.com"
+  - "douyinpic.com"
+  - "douyinstatic.com"
+  - "douyinvod.com"
+  - "idouyinvod.com"
+  - "ixigua.com"
+  - "ixiguavideo.com"
+  - "pstatp.com"
+  - "snssdk.com"
+  - "toutiao.com"

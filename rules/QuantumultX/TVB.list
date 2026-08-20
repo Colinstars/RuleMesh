@@ -1,0 +1,31 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    TVB
+#  Generated:  2026-08-20T22:12:08.435Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:652e55f572062ba8192d6a5b388196d2df87e7aa
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×18  DOMAIN×3
+#======================================================
+
+host,bcbolt446c5271-a.akamaihd.net
+host,edge.api.brightcove.com
+host,tvbtracking.azurewebsites.net
+host-suffix,bigbigchannel.com.hk
+host-suffix,bigbigshop.com
+host-suffix,content.jwplatform.com
+host-suffix,encoretvb.com
+host-suffix,mytvsuper.com
+host-suffix,mytvsuperlimited.hb.omtrdc.net
+host-suffix,mytvsuperlimited.sc.omtrdc.net
+host-suffix,tvb.com
+host-suffix,tvb.com.au
+host-suffix,tvbanywhere.com
+host-suffix,tvbanywhere.com.sg
+host-suffix,tvbc.com.cn
+host-suffix,tvbeventpower.com.hk
+host-suffix,tvbusa.com
+host-suffix,tvbweekly.com
+host-suffix,tvmedia.net.au
+host-suffix,videos-f.jwpsrv.com
+host-suffix,youboranqs01.com

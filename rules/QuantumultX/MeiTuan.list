@@ -1,0 +1,17 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    MeiTuan
+#  Generated:  2026-08-20T22:12:08.423Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:f2a2505563f44b6bd6e2b346e28e3f93e11a9a6f
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×7
+#======================================================
+
+host-suffix,dianping.com
+host-suffix,maoyan.com
+host-suffix,meituan.com
+host-suffix,meituan.net
+host-suffix,mtyun.com
+host-suffix,neixin.cn
+host-suffix,sankuai.com

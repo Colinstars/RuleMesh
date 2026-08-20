@@ -1,0 +1,26 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    12306
+#  Generated:  2026-08-20T22:12:08.496Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:5a7eb14f58d2457ffac97c26f2f111f1ea7a4059
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×15
+#==========================================================
+
+domain_suffix_set:
+  - "12306.cn"
+  - "95306.cn"
+  - "95572.com"
+  - "china-railway.com.cn"
+  - "china-ric.com"
+  - "crct.com"
+  - "cre.cn"
+  - "crecc.com.cn"
+  - "creip.cn"
+  - "crscl.com.cn"
+  - "gzrailway.com.cn"
+  - "nntlj.com"
+  - "peoplerail.com"
+  - "rails.cn"
+  - "tdpress.com"

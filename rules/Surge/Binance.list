@@ -1,0 +1,23 @@
+#==========================================================
+#  RuleMesh Rule Set
+#  Service:    Binance
+#  Generated:  2026-08-20T22:12:08.338Z
+#  Version:    1
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:974d218019b315e1721f92b2a743261245b2a8ef
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×12
+#==========================================================
+
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.com

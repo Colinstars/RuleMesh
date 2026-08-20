@@ -1,0 +1,13 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    BiliBiliIntl
+#  Generated:  2026-08-20T22:12:08.411Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:3e8b5b5778f7a44cfdc690787ca01a3a6f38bb79
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1  PROCESS-NAME×1
+#======================================================
+
+host-suffix,bilibili.tv
+
+# note: 1 rule(s) unsupported by QuantumultX, skipped: PROCESS-NAME×1

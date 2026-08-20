@@ -1,0 +1,31 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    AliPay
+#  Generated:  2026-08-20T22:12:08.408Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:34f2493088635b6f589f86fd2f20028f9f86febd
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×21
+#======================================================
+
+host-suffix,alipay
+host-suffix,alipay-corp.com
+host-suffix,alipay-eco.com
+host-suffix,alipay-inc.com
+host-suffix,alipay-traffic.com
+host-suffix,alipay.cn
+host-suffix,alipay.com
+host-suffix,alipay.com.cn
+host-suffix,alipay.hk
+host-suffix,alipay.net
+host-suffix,alipaydesign.com
+host-suffix,alipaydev.com
+host-suffix,alipaydns.com
+host-suffix,alipayeshop.com
+host-suffix,alipaylog.com
+host-suffix,alipaymo.com
+host-suffix,alipayobjects.com
+host-suffix,alipayplus.com
+host-suffix,ifaa.org.cn
+host-suffix,luohanacademy.com
+host-suffix,sinopayment.com.cn

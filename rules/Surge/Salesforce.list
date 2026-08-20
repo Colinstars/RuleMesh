@@ -1,0 +1,24 @@
+#==========================================================
+#  RuleMesh Rule Set
+#  Service:    Salesforce
+#  Generated:  2026-08-20T22:12:08.354Z
+#  Version:    1
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:9a525ca1c6401968545ec0ac2709a6781d85a34e
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×13
+#==========================================================
+
+DOMAIN-SUFFIX,force.com
+DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,herokucdn.com
+DOMAIN-SUFFIX,mulesoft.com
+DOMAIN-SUFFIX,salesforce.com
+DOMAIN-SUFFIX,salesforce.org
+DOMAIN-SUFFIX,salesforceliveagent.com
+DOMAIN-SUFFIX,sfdcdigital.com
+DOMAIN-SUFFIX,sfdcstatic.com
+DOMAIN-SUFFIX,tableau.com
+DOMAIN-SUFFIX,trailblazer.me
+DOMAIN-SUFFIX,trailhead.com

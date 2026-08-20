@@ -1,0 +1,17 @@
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
+#  Service:    MeiTuan
+#  Generated:  2026-08-20T22:12:08.466Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:f2a2505563f44b6bd6e2b346e28e3f93e11a9a6f
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×7
+#==========================================================
+
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,neixin.cn
+DOMAIN-SUFFIX,sankuai.com

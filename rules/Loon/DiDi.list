@@ -1,0 +1,35 @@
+#======================================================
+#  RuleMesh Rule Set (Loon)
+#  Service:    DiDi
+#  Generated:  2026-08-20T22:12:08.383Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:cf1feb0a76bb152ee860aa38d08ea163d72bcb5e
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×25
+#======================================================
+
+DOMAIN-SUFFIX,apptaxi.com.cn
+DOMAIN-SUFFIX,cxyule.com
+DOMAIN-SUFFIX,didi-food.com
+DOMAIN-SUFFIX,didi.cn
+DOMAIN-SUFFIX,didi.xin
+DOMAIN-SUFFIX,didialift.com
+DOMAIN-SUFFIX,didiapp.net.cn
+DOMAIN-SUFFIX,didiaustralia.blog
+DOMAIN-SUFFIX,didichuxing.com
+DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-SUFFIX,didimobility.co.jp
+DOMAIN-SUFFIX,didimobility.com
+DOMAIN-SUFFIX,didiopenapi.com
+DOMAIN-SUFFIX,didiqiche.com
+DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,diditaxi.com
+DOMAIN-SUFFIX,diditaxi.com.cn
+DOMAIN-SUFFIX,didiwuxian.com
+DOMAIN-SUFFIX,didiyun.com
+DOMAIN-SUFFIX,didiyun.org
+DOMAIN-SUFFIX,didiyunapi.com
+DOMAIN-SUFFIX,juyanwenjuan.com
+DOMAIN-SUFFIX,udache.com
+DOMAIN-SUFFIX,xiaojuchefu.cn
+DOMAIN-SUFFIX,xiaojukeji.com

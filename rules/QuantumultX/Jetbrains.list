@@ -1,0 +1,24 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Jetbrains
+#  Generated:  2026-08-20T22:12:08.420Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:21b67ee1d255fbf109dd85410c34cb4695c4afff
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×14
+#======================================================
+
+host-suffix,datalore.io
+host-suffix,grazie.ai
+host-suffix,intellij.com
+host-suffix,intellij.net
+host-suffix,intellij.org
+host-suffix,jetbrains.ai
+host-suffix,jetbrains.com
+host-suffix,jetbrains.io
+host-suffix,jetbrains.net
+host-suffix,jetbrains.org
+host-suffix,jetbrains.space
+host-suffix,jetbrains.team
+host-suffix,kotlinconf.com
+host-suffix,kotlinlang.org

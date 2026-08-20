@@ -1,0 +1,44 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Xunlei
+#  Generated:  2026-08-20T22:12:08.514Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:19143e139ca4baf5b38ca1ea2adf5af197219d24
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×31  PROCESS-NAME×1
+#==========================================================
+
+domain_suffix_set:
+  - "00cdn.com"
+  - "155.com"
+  - "2sonar.com"
+  - "88cdn.com"
+  - "8uri.cn"
+  - "falconalliance.cn"
+  - "fontong.com"
+  - "geilijiasu.com"
+  - "geilijiasu.net"
+  - "gigaget.com"
+  - "kanimg.com"
+  - "kankan.com"
+  - "kuaipan.cn"
+  - "n0808.com"
+  - "neoimaging.cn"
+  - "newvr.com"
+  - "p2cdn.com"
+  - "sandai.net"
+  - "sjzhushou.com"
+  - "szxlxzb.com"
+  - "thundercdn.com"
+  - "thunderurl.com"
+  - "xbase.cloud"
+  - "xbase.xyz"
+  - "xcloudbase.com"
+  - "xlisp.net"
+  - "xlpan.com"
+  - "xlyouxi.net"
+  - "xunlei.cn"
+  - "xunlei.com"
+  - "xunlei.net"
+
+# note: 1 rule(s) unsupported by Egern, skipped: PROCESS-NAME×1

@@ -1,0 +1,16 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Rockstar
+#  Generated:  2026-08-20T22:12:08.510Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:0cd47a59dc4b8c19b13640d111f76550f7cfe281
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×5
+#==========================================================
+
+domain_suffix_set:
+  - "gamedownloads-rockstargames-com.akamaized.net"
+  - "media-rockstargames-com.akamaized.net"
+  - "rockstargames.com"
+  - "rsg.sc"
+  - "videos-rockstargames-com.akamaized.net"

@@ -1,0 +1,32 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    AliPay
+#  Generated:  2026-08-20T22:12:08.496Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:34f2493088635b6f589f86fd2f20028f9f86febd
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×21
+#==========================================================
+
+domain_suffix_set:
+  - "alipay"
+  - "alipay-corp.com"
+  - "alipay-eco.com"
+  - "alipay-inc.com"
+  - "alipay-traffic.com"
+  - "alipay.cn"
+  - "alipay.com"
+  - "alipay.com.cn"
+  - "alipay.hk"
+  - "alipay.net"
+  - "alipaydesign.com"
+  - "alipaydev.com"
+  - "alipaydns.com"
+  - "alipayeshop.com"
+  - "alipaylog.com"
+  - "alipaymo.com"
+  - "alipayobjects.com"
+  - "alipayplus.com"
+  - "ifaa.org.cn"
+  - "luohanacademy.com"
+  - "sinopayment.com.cn"

@@ -1,0 +1,44 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    TencentVideo
+#  Generated:  2026-08-20T22:12:08.435Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:d93ae208b9b9732bed97ba97d56c7ea8ec1c4d2b
+#------------------------------------------------------
+#  Types:      DOMAIN×14  IP-CIDR6×12  DOMAIN-SUFFIX×5  IP-CIDR×3
+#======================================================
+
+host,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
+host,17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
+host,apd-pcdnvodstat.teg.tencent-cloud.net
+host,dldir1.qq.com
+host,iacc.qq.com
+host,ins-eeww7kom.ias.tencent-cloud.net
+host,ios.video.mpush.qq.com
+host,rdelivery.qq.com
+host,ts.qq.com
+host,v.streaming.qq.com
+host,video-public-1258344701.shiply-cdn.qq.com
+host,video-search-1258344701.shiply-cdn.qq.com
+host,video-vip-1258344701.shiply-cdn.qq.com
+host,yoo.gtimg.com
+host-suffix,pgdt.gtimg.cn
+host-suffix,qqvideo.gtimg.com
+host-suffix,v.qq.com
+host-suffix,v.smtcdns.com
+host-suffix,video.qq.com
+ip-cidr,58.49.111.79/32,no-resolve
+ip-cidr,58.49.111.95/32,no-resolve
+ip-cidr,58.49.111.117/32,no-resolve
+ip6-cidr,::ffff:27/128,no-resolve
+ip6-cidr,::ffff:58/128,no-resolve
+ip6-cidr,::ffff:60/128,no-resolve
+ip6-cidr,::ffff:113/128,no-resolve
+ip6-cidr,::ffff:114/127,no-resolve
+ip6-cidr,::ffff:117/128,no-resolve
+ip6-cidr,::ffff:121/128,no-resolve
+ip6-cidr,::ffff:124/128,no-resolve
+ip6-cidr,::ffff:175/128,no-resolve
+ip6-cidr,::ffff:183/128,no-resolve
+ip6-cidr,::ffff:198/128,no-resolve
+ip6-cidr,::ffff:223/128,no-resolve

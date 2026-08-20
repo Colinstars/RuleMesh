@@ -1,0 +1,23 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    IBM
+#  Generated:  2026-08-20T22:12:08.504Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:3bebfdbb0a7260608d98c315e05d551741f89f90
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×12
+#==========================================================
+
+domain_suffix_set:
+  - "appdomain.cloud"
+  - "bluemix.com"
+  - "bluemix.net"
+  - "ibm"
+  - "ibm.com"
+  - "ibm.eu"
+  - "ibm.net"
+  - "ibm.us"
+  - "s-bluemix.net"
+  - "s81c.com"
+  - "weather.com"
+  - "weatherchannel"

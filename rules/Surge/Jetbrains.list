@@ -1,0 +1,25 @@
+#==========================================================
+#  RuleMesh Rule Set
+#  Service:    Jetbrains
+#  Generated:  2026-08-20T22:12:08.346Z
+#  Version:    1
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:21b67ee1d255fbf109dd85410c34cb4695c4afff
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×14
+#==========================================================
+
+DOMAIN-SUFFIX,datalore.io
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,intellij.com
+DOMAIN-SUFFIX,intellij.net
+DOMAIN-SUFFIX,intellij.org
+DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.io
+DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.org
+DOMAIN-SUFFIX,jetbrains.space
+DOMAIN-SUFFIX,jetbrains.team
+DOMAIN-SUFFIX,kotlinconf.com
+DOMAIN-SUFFIX,kotlinlang.org

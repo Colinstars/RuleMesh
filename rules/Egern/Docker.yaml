@@ -1,0 +1,19 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Docker
+#  Generated:  2026-08-20T22:12:08.501Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:f182842adeb51a4767e59d760775ee8c82bbcd2a
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×4  DOMAIN×3
+#==========================================================
+
+domain_set:
+  - "d1q6f0aelx0por.cloudfront.net"
+  - "d2wy8f7a9ursnm.cloudfront.net"
+  - "d36jcksde1wxzq.cloudfront.net"
+domain_suffix_set:
+  - "compose-spec.io"
+  - "docker.com"
+  - "docker.io"
+  - "dockerhub.com"

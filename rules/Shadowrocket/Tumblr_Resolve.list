@@ -1,0 +1,13 @@
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
+#  Service:    Tumblr
+#  Generated:  2026-08-20T22:12:08.486Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:ec60dca9c8caa0d8b7ddfa5236b5b94b9fd3bc44
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×3
+#==========================================================
+
+DOMAIN-SUFFIX,tmblr.co
+DOMAIN-SUFFIX,tumblr.co
+DOMAIN-SUFFIX,tumblr.com

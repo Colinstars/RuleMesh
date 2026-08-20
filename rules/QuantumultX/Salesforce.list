@@ -1,0 +1,23 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Salesforce
+#  Generated:  2026-08-20T22:12:08.432Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:9a525ca1c6401968545ec0ac2709a6781d85a34e
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×13
+#======================================================
+
+host-suffix,force.com
+host-suffix,heroku.com
+host-suffix,herokuapp.com
+host-suffix,herokucdn.com
+host-suffix,mulesoft.com
+host-suffix,salesforce.com
+host-suffix,salesforce.org
+host-suffix,salesforceliveagent.com
+host-suffix,sfdcdigital.com
+host-suffix,sfdcstatic.com
+host-suffix,tableau.com
+host-suffix,trailblazer.me
+host-suffix,trailhead.com

@@ -1,0 +1,43 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Xunlei
+#  Generated:  2026-08-20T22:12:08.439Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:19143e139ca4baf5b38ca1ea2adf5af197219d24
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×31  PROCESS-NAME×1
+#======================================================
+
+host-suffix,00cdn.com
+host-suffix,155.com
+host-suffix,2sonar.com
+host-suffix,88cdn.com
+host-suffix,8uri.cn
+host-suffix,falconalliance.cn
+host-suffix,fontong.com
+host-suffix,geilijiasu.com
+host-suffix,geilijiasu.net
+host-suffix,gigaget.com
+host-suffix,kanimg.com
+host-suffix,kankan.com
+host-suffix,kuaipan.cn
+host-suffix,n0808.com
+host-suffix,neoimaging.cn
+host-suffix,newvr.com
+host-suffix,p2cdn.com
+host-suffix,sandai.net
+host-suffix,sjzhushou.com
+host-suffix,szxlxzb.com
+host-suffix,thundercdn.com
+host-suffix,thunderurl.com
+host-suffix,xbase.cloud
+host-suffix,xbase.xyz
+host-suffix,xcloudbase.com
+host-suffix,xlisp.net
+host-suffix,xlpan.com
+host-suffix,xlyouxi.net
+host-suffix,xunlei.cn
+host-suffix,xunlei.com
+host-suffix,xunlei.net
+
+# note: 1 rule(s) unsupported by QuantumultX, skipped: PROCESS-NAME×1

@@ -1,0 +1,34 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    HBOHK
+#  Generated:  2026-08-20T22:12:08.420Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:fcc6cceb07019237a10208ddde2506d3d48bbd7d
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×23  DOMAIN×1
+#======================================================
+
+host,wmff.warnermediacdn.com
+host-suffix,hboasia.com
+host-suffix,hboasia1-i.akamaihd.net
+host-suffix,hboasia2-i.akamaihd.net
+host-suffix,hboasia3-i.akamaihd.net
+host-suffix,hboasia4-i.akamaihd.net
+host-suffix,hboasia5-i.akamaihd.net
+host-suffix,hboasialive.akamaized.net
+host-suffix,hbogo.co.th
+host-suffix,hbogo.com
+host-suffix,hbogo.eu
+host-suffix,hbogoasia.com
+host-suffix,hbogoasia.hk
+host-suffix,hbogoasia.id
+host-suffix,hbogoasia.ph
+host-suffix,hbogoasia.sg
+host-suffix,hbogoasia.tw
+host-suffix,hbogoprod-vod.akamaized.net
+host-suffix,hbomaxcdn.com
+host-suffix,now-ashare.com
+host-suffix,now-tv.com
+host-suffix,now.com.hk
+host-suffix,nowe.com
+host-suffix,nowe.hk

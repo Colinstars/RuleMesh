@@ -1,0 +1,25 @@
+#======================================================
+#  RuleMesh Rule Set (Loon)
+#  Service:    12306
+#  Generated:  2026-08-20T22:12:08.381Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:5a7eb14f58d2457ffac97c26f2f111f1ea7a4059
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×15
+#======================================================
+
+DOMAIN-SUFFIX,12306.cn
+DOMAIN-SUFFIX,95306.cn
+DOMAIN-SUFFIX,95572.com
+DOMAIN-SUFFIX,china-railway.com.cn
+DOMAIN-SUFFIX,china-ric.com
+DOMAIN-SUFFIX,crct.com
+DOMAIN-SUFFIX,cre.cn
+DOMAIN-SUFFIX,crecc.com.cn
+DOMAIN-SUFFIX,creip.cn
+DOMAIN-SUFFIX,crscl.com.cn
+DOMAIN-SUFFIX,gzrailway.com.cn
+DOMAIN-SUFFIX,nntlj.com
+DOMAIN-SUFFIX,peoplerail.com
+DOMAIN-SUFFIX,rails.cn
+DOMAIN-SUFFIX,tdpress.com

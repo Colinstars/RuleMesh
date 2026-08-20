@@ -1,0 +1,23 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    DouYin
+#  Generated:  2026-08-20T22:12:08.415Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a437aa6070b5ce600c0b26a784275b85cc572d6e
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×11  DOMAIN×2
+#======================================================
+
+host,lf3-static.bytednsdoc.com
+host,v5-dy-o-abtest.zjcdn.com
+host-suffix,amemv.com
+host-suffix,douyincdn.com
+host-suffix,douyinpic.com
+host-suffix,douyinstatic.com
+host-suffix,douyinvod.com
+host-suffix,idouyinvod.com
+host-suffix,ixigua.com
+host-suffix,ixiguavideo.com
+host-suffix,pstatp.com
+host-suffix,snssdk.com
+host-suffix,toutiao.com
