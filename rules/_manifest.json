@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:20:48.378Z",
+  "generatedAt": "2026-08-20T22:25:46.299Z",
   "version": 1,
   "services": [
     "360",
@@ -58,6 +58,7 @@
     "Hulu",
     "IBM",
     "Instagram",
+    "Intelligence",
     "Jetbrains",
     "KuaiShou",
     "LinkedIn",
@@ -111,7 +112,8 @@
     "Youku",
     "Zhihu",
     "eBay",
-    "iQIYI"
+    "iQIYI",
+    "AI"
   ],
   "clients": [
     "Surge",
@@ -121,8 +123,8 @@
     "Shadowrocket",
     "Egern"
   ],
-  "files": 770,
-  "rules": 32454,
+  "files": 784,
+  "rules": 32472,
   "byService": {
     "360": [
       "Surge/360.list",
@@ -628,6 +630,15 @@
       "Shadowrocket/Instagram_Resolve.list",
       "Egern/Instagram.yaml"
     ],
+    "Intelligence": [
+      "Surge/Intelligence.list",
+      "Clash/Intelligence.yaml",
+      "Loon/Intelligence.list",
+      "QuantumultX/Intelligence.list",
+      "Shadowrocket/Intelligence.list",
+      "Shadowrocket/Intelligence_Resolve.list",
+      "Egern/Intelligence.yaml"
+    ],
     "Jetbrains": [
       "Surge/Jetbrains.list",
       "Clash/Jetbrains.yaml",
@@ -1113,6 +1124,15 @@
       "Shadowrocket/iQIYI.list",
       "Shadowrocket/iQIYI_Resolve.list",
       "Egern/iQIYI.yaml"
+    ],
+    "AI": [
+      "Surge/AI.list",
+      "Clash/AI.yaml",
+      "Loon/AI.list",
+      "QuantumultX/AI.list",
+      "Shadowrocket/AI.list",
+      "Shadowrocket/AI_Resolve.list",
+      "Egern/AI.yaml"
     ]
   }
 }

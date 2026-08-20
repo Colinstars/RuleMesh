@@ -1,0 +1,28 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Intelligence
+#  Generated:  2026-08-20T22:25:46.179Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:243c8207a478575b85435edcb32026659b12d944
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×17  DOMAIN-KEYWORD×1
+#======================================================
+
+host-suffix,gateway.icloud.com
+host-suffix,guzzoni.apple.com
+host-suffix,smoot.apple.com
+host-suffix,ls.apple.com
+host-suffix,apple-relay.apple.com
+host-suffix,apple-relay.fastly-edge.com
+host-suffix,apple-relay.cloudflare.com
+host-suffix,apple-relay.akamaized.net
+host-suffix,cp4.cloudflare.com
+host-suffix,apple-cloudkit.com
+host-suffix,mask.icloud.com
+host-suffix,mask-h2.icloud.com
+host-suffix,mask-api.icloud.com
+host-suffix,mask.apple-dns.net
+host-suffix,mask-api.fe.apple-dns.net
+host-suffix,mask-t.apple-dns.net
+host-suffix,apps.mzstatic.com
+host-keyword,siri

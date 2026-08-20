@@ -1,0 +1,28 @@
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
+#  Service:    Intelligence
+#  Generated:  2026-08-20T22:25:46.231Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:243c8207a478575b85435edcb32026659b12d944
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×17  DOMAIN-KEYWORD×1
+#==========================================================
+
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.akamaized.net
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask-api.icloud.com
+DOMAIN-SUFFIX,mask.apple-dns.net
+DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
+DOMAIN-SUFFIX,mask-t.apple-dns.net
+DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-KEYWORD,siri
