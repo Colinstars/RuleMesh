@@ -1,0 +1,12 @@
+#==========================================================
+#  RuleMesh Rule Set
+#  Service:    DeepL
+#  Generated:  2026-08-20T22:39:23.921Z
+#  Version:    1
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a672c1906fd0247dc54fc7eacb7550b5cb9f5a8c
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#==========================================================
+
+DOMAIN-SUFFIX,deepl.com

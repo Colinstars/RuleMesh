@@ -1,0 +1,11 @@
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
+#  Service:    CharacterAI
+#  Generated:  2026-08-20T22:39:24.065Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:31a091af13ea97b48b4702a060777a677c859f1d
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#==========================================================
+
+DOMAIN-SUFFIX,character.ai

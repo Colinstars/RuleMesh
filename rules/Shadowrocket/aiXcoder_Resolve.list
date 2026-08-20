@@ -1,0 +1,12 @@
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
+#  Service:    aiXcoder
+#  Generated:  2026-08-20T22:39:24.110Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:f6cf58821c28757cce69a87b140668781e966268
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×2
+#==========================================================
+
+DOMAIN-SUFFIX,aixcoder.com
+DOMAIN-SUFFIX,nnthink.com

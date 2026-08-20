@@ -1,0 +1,11 @@
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
+#  Service:    Bolt
+#  Generated:  2026-08-20T22:39:24.065Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a2c7b86c0786493729ccefc154b4415aba7dde7e
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#==========================================================
+
+DOMAIN-SUFFIX,bolt.new

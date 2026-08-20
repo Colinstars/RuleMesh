@@ -1,0 +1,11 @@
+#======================================================
+#  RuleMesh Rule Set (Loon)
+#  Service:    Cohere
+#  Generated:  2026-08-20T22:39:24.003Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:5de65f305c091ca6005ec320677ce74d15dabbe2
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#======================================================
+
+DOMAIN-SUFFIX,cohere.com

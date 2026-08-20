@@ -1,11 +1,11 @@
 #======================================================
 #  RuleMesh Rule Set (QuantumultX)
 #  Service:    AI
-#  Generated:  2026-08-20T22:34:53.377Z
+#  Generated:  2026-08-20T22:39:24.060Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:010b9771564406e02ef0c0a361740ab3e0081c92
+#  Fingerprint:6e7eca73c57e945b94301eb4331d40eb033c6139
 #------------------------------------------------------
-#  Types:      DOMAIN-SUFFIX×54  DOMAIN×25  DOMAIN-KEYWORD×6  IP-ASN×2  IP-CIDR×2
+#  Types:      DOMAIN-SUFFIX×81  DOMAIN×27  DOMAIN-KEYWORD×6  IP-ASN×2  IP-CIDR×2
 #======================================================
 
 host,browser-intake-datadoghq.com
@@ -57,6 +57,7 @@ host-suffix,apis.google.com
 host-keyword,colab
 host-keyword,developerprofiles
 host-keyword,generativelanguage
+host,generativelanguage.googleapis.com
 host,api.msn.com
 host,api.statsig.com
 host,assets.msn.com
@@ -95,5 +96,33 @@ host-suffix,mask-api.fe.apple-dns.net
 host-suffix,mask-t.apple-dns.net
 host-suffix,apps.mzstatic.com
 host-keyword,siri
+host,cdn.usefathom.com
+host-suffix,grok.com
+host-suffix,x.ai
+host-suffix,perplexity.ai
+host-suffix,pplx.ai
+host-suffix,midjourney.com
+host-suffix,mj.com
+host-suffix,poe.com
+host-suffix,poe.ai
+host-suffix,huggingface.co
+host-suffix,character.ai
+host-suffix,suno.com
+host-suffix,suno.ai
+host-suffix,elevenlabs.io
+host-suffix,stability.ai
+host-suffix,runwayml.com
+host-suffix,lumalabs.ai
+host-suffix,ideogram.ai
+host-suffix,meta.ai
+host-suffix,ai.meta.com
+host-suffix,mistral.ai
+host-suffix,deepl.com
+host-suffix,cohere.com
+host-suffix,cursor.com
+host-suffix,windsurf.com
+host-suffix,codeium.com
+host-suffix,replit.com
+host-suffix,bolt.new
 ip-cidr,24.199.123.28/32,no-resolve
 ip-cidr,64.23.132.171/32,no-resolve

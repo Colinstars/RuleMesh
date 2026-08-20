@@ -1,0 +1,12 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Replit
+#  Generated:  2026-08-20T22:39:24.148Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:3fbcef6eb1ee2407779ec4925164f8b0e1023b56
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#==========================================================
+
+domain_suffix_set:
+  - "replit.com"

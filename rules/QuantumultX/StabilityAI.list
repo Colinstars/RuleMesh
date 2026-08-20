@@ -1,0 +1,11 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    StabilityAI
+#  Generated:  2026-08-20T22:39:24.056Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:983f3a08f06c32a73aafa651932a0b452ca32cdd
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#======================================================
+
+host-suffix,stability.ai

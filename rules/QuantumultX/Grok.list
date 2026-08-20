@@ -1,0 +1,12 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Grok
+#  Generated:  2026-08-20T22:39:24.049Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a4837f486cd07028c265c1ad10eab25f9c719f92
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×2
+#======================================================
+
+host-suffix,grok.com
+host-suffix,x.ai

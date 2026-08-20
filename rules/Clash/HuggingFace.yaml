@@ -1,0 +1,11 @@
+#======================================================
+#  RuleMesh Rule Set (Clash)
+#  Service:    HuggingFace
+#  Generated:  2026-08-20T22:39:23.970Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:3a3bffb2ff3db1859c895903cf7aa7693ad161b2
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#======================================================
+
+DOMAIN-SUFFIX,huggingface.co

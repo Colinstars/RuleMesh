@@ -1,0 +1,12 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Civitai
+#  Generated:  2026-08-20T22:39:24.130Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:b7b08fb0d8e87732266111ed9392558b0535a87b
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#==========================================================
+
+domain_suffix_set:
+  - "civitai.com"

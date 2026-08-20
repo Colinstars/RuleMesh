@@ -1,0 +1,11 @@
+#======================================================
+#  RuleMesh Rule Set (Clash)
+#  Service:    ElevenLabs
+#  Generated:  2026-08-20T22:39:23.964Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:31c5e33e923228369b0477a7b1e7990044397301
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#======================================================
+
+DOMAIN-SUFFIX,elevenlabs.io

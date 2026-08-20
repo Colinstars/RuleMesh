@@ -1,0 +1,12 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    StabilityAI
+#  Generated:  2026-08-20T22:39:24.149Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:983f3a08f06c32a73aafa651932a0b452ca32cdd
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#==========================================================
+
+domain_suffix_set:
+  - "stability.ai"

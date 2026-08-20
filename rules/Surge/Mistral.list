@@ -1,0 +1,12 @@
+#==========================================================
+#  RuleMesh Rule Set
+#  Service:    Mistral
+#  Generated:  2026-08-20T22:39:23.932Z
+#  Version:    1
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:5248054765d6e1e98d50af9f139c9667ddf35349
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#==========================================================
+
+DOMAIN-SUFFIX,mistral.ai

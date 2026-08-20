@@ -1,0 +1,12 @@
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
+#  Service:    Suno
+#  Generated:  2026-08-20T22:39:24.106Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:c4bb0a47aecd963342fe1bedd73cadb63cccc484
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×2
+#==========================================================
+
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,suno.ai

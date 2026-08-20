@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:34:53.477Z",
+  "generatedAt": "2026-08-20T22:39:24.155Z",
   "version": 1,
   "services": [
     "360",
@@ -21,14 +21,21 @@
     "Binance",
     "Blizzard",
     "Bloomberg",
+    "Bolt",
     "CNN",
+    "CharacterAI",
     "China",
     "ChinaIPs",
     "ChinaMedia",
     "ChinaNoMedia",
+    "Civitai",
+    "Claude",
     "Cloudflare",
+    "Cohere",
     "Copilot",
+    "Cursor",
     "Dailymotion",
+    "DeepL",
     "Deezer",
     "DiDi",
     "DigitalOcean",
@@ -39,6 +46,7 @@
     "DouYin",
     "Dropbox",
     "EA",
+    "ElevenLabs",
     "Epic",
     "Facebook",
     "Figma",
@@ -52,18 +60,25 @@
     "Gog",
     "Google",
     "GoogleDrive",
+    "Grok",
     "HBO",
     "HBOHK",
     "HBOUSA",
+    "HuggingFace",
     "Hulu",
     "IBM",
+    "Ideogram",
     "Instagram",
     "Intelligence",
     "Jetbrains",
     "KuaiShou",
     "LinkedIn",
+    "LumaAI",
     "MeiTuan",
+    "MetaAI",
     "Microsoft",
+    "Midjourney",
+    "Mistral",
     "NYTimes",
     "Netflix",
     "Nintendo",
@@ -74,19 +89,25 @@
     "ParamountPlus",
     "PayPal",
     "Peacock",
+    "Perplexity",
     "Pinterest",
     "PlayStation",
+    "Poe",
     "PrimeVideo",
     "Proxy",
     "Reddit",
+    "Replit",
     "Rockstar",
+    "Runway",
     "Salesforce",
     "Slack",
     "Sling",
     "SoundCloud",
     "Spotify",
+    "StabilityAI",
     "Steam",
     "Stripe",
+    "Suno",
     "TIDAL",
     "TVB",
     "Telegram",
@@ -105,12 +126,14 @@
     "Weibo",
     "Whatsapp",
     "Wikipedia",
+    "Windsurf",
     "Xbox",
     "Xunlei",
     "YouTube",
     "YouTubeMusic",
     "Youku",
     "Zhihu",
+    "aiXcoder",
     "eBay",
     "iQIYI",
     "AI"
@@ -123,8 +146,8 @@
     "Shadowrocket",
     "Egern"
   ],
-  "files": 784,
-  "rules": 32472,
+  "files": 945,
+  "rules": 32506,
   "byService": {
     "360": [
       "Surge/360.list",
@@ -297,6 +320,15 @@
       "Shadowrocket/Bloomberg_Resolve.list",
       "Egern/Bloomberg.yaml"
     ],
+    "Bolt": [
+      "Surge/Bolt.list",
+      "Clash/Bolt.yaml",
+      "Loon/Bolt.list",
+      "QuantumultX/Bolt.list",
+      "Shadowrocket/Bolt.list",
+      "Shadowrocket/Bolt_Resolve.list",
+      "Egern/Bolt.yaml"
+    ],
     "CNN": [
       "Surge/CNN.list",
       "Clash/CNN.yaml",
@@ -305,6 +337,15 @@
       "Shadowrocket/CNN.list",
       "Shadowrocket/CNN_Resolve.list",
       "Egern/CNN.yaml"
+    ],
+    "CharacterAI": [
+      "Surge/CharacterAI.list",
+      "Clash/CharacterAI.yaml",
+      "Loon/CharacterAI.list",
+      "QuantumultX/CharacterAI.list",
+      "Shadowrocket/CharacterAI.list",
+      "Shadowrocket/CharacterAI_Resolve.list",
+      "Egern/CharacterAI.yaml"
     ],
     "China": [
       "Surge/China.list",
@@ -342,6 +383,24 @@
       "Shadowrocket/ChinaNoMedia_Resolve.list",
       "Egern/ChinaNoMedia.yaml"
     ],
+    "Civitai": [
+      "Surge/Civitai.list",
+      "Clash/Civitai.yaml",
+      "Loon/Civitai.list",
+      "QuantumultX/Civitai.list",
+      "Shadowrocket/Civitai.list",
+      "Shadowrocket/Civitai_Resolve.list",
+      "Egern/Civitai.yaml"
+    ],
+    "Claude": [
+      "Surge/Claude.list",
+      "Clash/Claude.yaml",
+      "Loon/Claude.list",
+      "QuantumultX/Claude.list",
+      "Shadowrocket/Claude.list",
+      "Shadowrocket/Claude_Resolve.list",
+      "Egern/Claude.yaml"
+    ],
     "Cloudflare": [
       "Surge/Cloudflare.list",
       "Clash/Cloudflare.yaml",
@@ -350,6 +409,15 @@
       "Shadowrocket/Cloudflare.list",
       "Shadowrocket/Cloudflare_Resolve.list",
       "Egern/Cloudflare.yaml"
+    ],
+    "Cohere": [
+      "Surge/Cohere.list",
+      "Clash/Cohere.yaml",
+      "Loon/Cohere.list",
+      "QuantumultX/Cohere.list",
+      "Shadowrocket/Cohere.list",
+      "Shadowrocket/Cohere_Resolve.list",
+      "Egern/Cohere.yaml"
     ],
     "Copilot": [
       "Surge/Copilot.list",
@@ -360,6 +428,15 @@
       "Shadowrocket/Copilot_Resolve.list",
       "Egern/Copilot.yaml"
     ],
+    "Cursor": [
+      "Surge/Cursor.list",
+      "Clash/Cursor.yaml",
+      "Loon/Cursor.list",
+      "QuantumultX/Cursor.list",
+      "Shadowrocket/Cursor.list",
+      "Shadowrocket/Cursor_Resolve.list",
+      "Egern/Cursor.yaml"
+    ],
     "Dailymotion": [
       "Surge/Dailymotion.list",
       "Clash/Dailymotion.yaml",
@@ -368,6 +445,15 @@
       "Shadowrocket/Dailymotion.list",
       "Shadowrocket/Dailymotion_Resolve.list",
       "Egern/Dailymotion.yaml"
+    ],
+    "DeepL": [
+      "Surge/DeepL.list",
+      "Clash/DeepL.yaml",
+      "Loon/DeepL.list",
+      "QuantumultX/DeepL.list",
+      "Shadowrocket/DeepL.list",
+      "Shadowrocket/DeepL_Resolve.list",
+      "Egern/DeepL.yaml"
     ],
     "Deezer": [
       "Surge/Deezer.list",
@@ -458,6 +544,15 @@
       "Shadowrocket/EA.list",
       "Shadowrocket/EA_Resolve.list",
       "Egern/EA.yaml"
+    ],
+    "ElevenLabs": [
+      "Surge/ElevenLabs.list",
+      "Clash/ElevenLabs.yaml",
+      "Loon/ElevenLabs.list",
+      "QuantumultX/ElevenLabs.list",
+      "Shadowrocket/ElevenLabs.list",
+      "Shadowrocket/ElevenLabs_Resolve.list",
+      "Egern/ElevenLabs.yaml"
     ],
     "Epic": [
       "Surge/Epic.list",
@@ -576,6 +671,15 @@
       "Shadowrocket/GoogleDrive_Resolve.list",
       "Egern/GoogleDrive.yaml"
     ],
+    "Grok": [
+      "Surge/Grok.list",
+      "Clash/Grok.yaml",
+      "Loon/Grok.list",
+      "QuantumultX/Grok.list",
+      "Shadowrocket/Grok.list",
+      "Shadowrocket/Grok_Resolve.list",
+      "Egern/Grok.yaml"
+    ],
     "HBO": [
       "Surge/HBO.list",
       "Clash/HBO.yaml",
@@ -603,6 +707,15 @@
       "Shadowrocket/HBOUSA_Resolve.list",
       "Egern/HBOUSA.yaml"
     ],
+    "HuggingFace": [
+      "Surge/HuggingFace.list",
+      "Clash/HuggingFace.yaml",
+      "Loon/HuggingFace.list",
+      "QuantumultX/HuggingFace.list",
+      "Shadowrocket/HuggingFace.list",
+      "Shadowrocket/HuggingFace_Resolve.list",
+      "Egern/HuggingFace.yaml"
+    ],
     "Hulu": [
       "Surge/Hulu.list",
       "Clash/Hulu.yaml",
@@ -620,6 +733,15 @@
       "Shadowrocket/IBM.list",
       "Shadowrocket/IBM_Resolve.list",
       "Egern/IBM.yaml"
+    ],
+    "Ideogram": [
+      "Surge/Ideogram.list",
+      "Clash/Ideogram.yaml",
+      "Loon/Ideogram.list",
+      "QuantumultX/Ideogram.list",
+      "Shadowrocket/Ideogram.list",
+      "Shadowrocket/Ideogram_Resolve.list",
+      "Egern/Ideogram.yaml"
     ],
     "Instagram": [
       "Surge/Instagram.list",
@@ -666,6 +788,15 @@
       "Shadowrocket/LinkedIn_Resolve.list",
       "Egern/LinkedIn.yaml"
     ],
+    "LumaAI": [
+      "Surge/LumaAI.list",
+      "Clash/LumaAI.yaml",
+      "Loon/LumaAI.list",
+      "QuantumultX/LumaAI.list",
+      "Shadowrocket/LumaAI.list",
+      "Shadowrocket/LumaAI_Resolve.list",
+      "Egern/LumaAI.yaml"
+    ],
     "MeiTuan": [
       "Surge/MeiTuan.list",
       "Clash/MeiTuan.yaml",
@@ -675,6 +806,15 @@
       "Shadowrocket/MeiTuan_Resolve.list",
       "Egern/MeiTuan.yaml"
     ],
+    "MetaAI": [
+      "Surge/MetaAI.list",
+      "Clash/MetaAI.yaml",
+      "Loon/MetaAI.list",
+      "QuantumultX/MetaAI.list",
+      "Shadowrocket/MetaAI.list",
+      "Shadowrocket/MetaAI_Resolve.list",
+      "Egern/MetaAI.yaml"
+    ],
     "Microsoft": [
       "Surge/Microsoft.list",
       "Clash/Microsoft.yaml",
@@ -683,6 +823,24 @@
       "Shadowrocket/Microsoft.list",
       "Shadowrocket/Microsoft_Resolve.list",
       "Egern/Microsoft.yaml"
+    ],
+    "Midjourney": [
+      "Surge/Midjourney.list",
+      "Clash/Midjourney.yaml",
+      "Loon/Midjourney.list",
+      "QuantumultX/Midjourney.list",
+      "Shadowrocket/Midjourney.list",
+      "Shadowrocket/Midjourney_Resolve.list",
+      "Egern/Midjourney.yaml"
+    ],
+    "Mistral": [
+      "Surge/Mistral.list",
+      "Clash/Mistral.yaml",
+      "Loon/Mistral.list",
+      "QuantumultX/Mistral.list",
+      "Shadowrocket/Mistral.list",
+      "Shadowrocket/Mistral_Resolve.list",
+      "Egern/Mistral.yaml"
     ],
     "NYTimes": [
       "Surge/NYTimes.list",
@@ -774,6 +932,15 @@
       "Shadowrocket/Peacock_Resolve.list",
       "Egern/Peacock.yaml"
     ],
+    "Perplexity": [
+      "Surge/Perplexity.list",
+      "Clash/Perplexity.yaml",
+      "Loon/Perplexity.list",
+      "QuantumultX/Perplexity.list",
+      "Shadowrocket/Perplexity.list",
+      "Shadowrocket/Perplexity_Resolve.list",
+      "Egern/Perplexity.yaml"
+    ],
     "Pinterest": [
       "Surge/Pinterest.list",
       "Clash/Pinterest.yaml",
@@ -791,6 +958,15 @@
       "Shadowrocket/PlayStation.list",
       "Shadowrocket/PlayStation_Resolve.list",
       "Egern/PlayStation.yaml"
+    ],
+    "Poe": [
+      "Surge/Poe.list",
+      "Clash/Poe.yaml",
+      "Loon/Poe.list",
+      "QuantumultX/Poe.list",
+      "Shadowrocket/Poe.list",
+      "Shadowrocket/Poe_Resolve.list",
+      "Egern/Poe.yaml"
     ],
     "PrimeVideo": [
       "Surge/PrimeVideo.list",
@@ -819,6 +995,15 @@
       "Shadowrocket/Reddit_Resolve.list",
       "Egern/Reddit.yaml"
     ],
+    "Replit": [
+      "Surge/Replit.list",
+      "Clash/Replit.yaml",
+      "Loon/Replit.list",
+      "QuantumultX/Replit.list",
+      "Shadowrocket/Replit.list",
+      "Shadowrocket/Replit_Resolve.list",
+      "Egern/Replit.yaml"
+    ],
     "Rockstar": [
       "Surge/Rockstar.list",
       "Clash/Rockstar.yaml",
@@ -827,6 +1012,15 @@
       "Shadowrocket/Rockstar.list",
       "Shadowrocket/Rockstar_Resolve.list",
       "Egern/Rockstar.yaml"
+    ],
+    "Runway": [
+      "Surge/Runway.list",
+      "Clash/Runway.yaml",
+      "Loon/Runway.list",
+      "QuantumultX/Runway.list",
+      "Shadowrocket/Runway.list",
+      "Shadowrocket/Runway_Resolve.list",
+      "Egern/Runway.yaml"
     ],
     "Salesforce": [
       "Surge/Salesforce.list",
@@ -873,6 +1067,15 @@
       "Shadowrocket/Spotify_Resolve.list",
       "Egern/Spotify.yaml"
     ],
+    "StabilityAI": [
+      "Surge/StabilityAI.list",
+      "Clash/StabilityAI.yaml",
+      "Loon/StabilityAI.list",
+      "QuantumultX/StabilityAI.list",
+      "Shadowrocket/StabilityAI.list",
+      "Shadowrocket/StabilityAI_Resolve.list",
+      "Egern/StabilityAI.yaml"
+    ],
     "Steam": [
       "Surge/Steam.list",
       "Clash/Steam.yaml",
@@ -890,6 +1093,15 @@
       "Shadowrocket/Stripe.list",
       "Shadowrocket/Stripe_Resolve.list",
       "Egern/Stripe.yaml"
+    ],
+    "Suno": [
+      "Surge/Suno.list",
+      "Clash/Suno.yaml",
+      "Loon/Suno.list",
+      "QuantumultX/Suno.list",
+      "Shadowrocket/Suno.list",
+      "Shadowrocket/Suno_Resolve.list",
+      "Egern/Suno.yaml"
     ],
     "TIDAL": [
       "Surge/TIDAL.list",
@@ -1053,6 +1265,15 @@
       "Shadowrocket/Wikipedia_Resolve.list",
       "Egern/Wikipedia.yaml"
     ],
+    "Windsurf": [
+      "Surge/Windsurf.list",
+      "Clash/Windsurf.yaml",
+      "Loon/Windsurf.list",
+      "QuantumultX/Windsurf.list",
+      "Shadowrocket/Windsurf.list",
+      "Shadowrocket/Windsurf_Resolve.list",
+      "Egern/Windsurf.yaml"
+    ],
     "Xbox": [
       "Surge/Xbox.list",
       "Clash/Xbox.yaml",
@@ -1106,6 +1327,15 @@
       "Shadowrocket/Zhihu.list",
       "Shadowrocket/Zhihu_Resolve.list",
       "Egern/Zhihu.yaml"
+    ],
+    "aiXcoder": [
+      "Surge/aiXcoder.list",
+      "Clash/aiXcoder.yaml",
+      "Loon/aiXcoder.list",
+      "QuantumultX/aiXcoder.list",
+      "Shadowrocket/aiXcoder.list",
+      "Shadowrocket/aiXcoder_Resolve.list",
+      "Egern/aiXcoder.yaml"
     ],
     "eBay": [
       "Surge/eBay.list",

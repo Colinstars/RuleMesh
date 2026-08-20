@@ -1,12 +1,12 @@
 #==========================================================
 #  RuleMesh Rule Set
 #  Service:    Gemini
-#  Generated:  2026-08-20T22:34:53.223Z
+#  Generated:  2026-08-20T22:39:23.925Z
 #  Version:    1
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:e4d5cbc7b3f3a0f473c77d4bbe1c60bddbb46f59
+#  Fingerprint:3d8f5283acd35710c9bb472ef2fd2ae218b0a9d2
 #----------------------------------------------------------
-#  Types:      DOMAIN-SUFFIX×7  DOMAIN×3  DOMAIN-KEYWORD×3
+#  Types:      DOMAIN-SUFFIX×7  DOMAIN×4  DOMAIN-KEYWORD×3
 #==========================================================
 
 DOMAIN,ai.google.dev
@@ -22,3 +22,4 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN,generativelanguage.googleapis.com

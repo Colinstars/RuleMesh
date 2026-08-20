@@ -1,0 +1,12 @@
+#==========================================================
+#  RuleMesh Rule Set
+#  Service:    LumaAI
+#  Generated:  2026-08-20T22:39:23.931Z
+#  Version:    1
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:7a9c3d78e2a703929b965503ca8cdfa28f7cfb04
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#==========================================================
+
+DOMAIN-SUFFIX,lumalabs.ai

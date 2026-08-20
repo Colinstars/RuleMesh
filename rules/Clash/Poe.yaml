@@ -1,0 +1,12 @@
+#======================================================
+#  RuleMesh Rule Set (Clash)
+#  Service:    Poe
+#  Generated:  2026-08-20T22:39:23.975Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:f85ac30699744471f409e4c60971239fee0014cd
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×2
+#======================================================
+
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poe.ai

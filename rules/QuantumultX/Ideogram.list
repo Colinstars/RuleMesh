@@ -1,0 +1,11 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Ideogram
+#  Generated:  2026-08-20T22:39:24.050Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:c839cb22e171a8d7e790add8251a61671ccc19b8
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#======================================================
+
+host-suffix,ideogram.ai

@@ -1,0 +1,13 @@
+#======================================================
+#  RuleMesh Rule Set (Loon)
+#  Service:    Claude
+#  Generated:  2026-08-20T22:39:24.002Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:c547ebfda75b820857af5f78ef57b6994a29ab70
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×2  DOMAIN×1
+#======================================================
+
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai

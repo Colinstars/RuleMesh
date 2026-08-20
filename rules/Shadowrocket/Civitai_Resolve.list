@@ -1,0 +1,11 @@
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
+#  Service:    Civitai
+#  Generated:  2026-08-20T22:39:24.085Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:b7b08fb0d8e87732266111ed9392558b0535a87b
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#==========================================================
+
+DOMAIN-SUFFIX,civitai.com

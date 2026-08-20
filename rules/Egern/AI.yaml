@@ -1,11 +1,11 @@
 #==========================================================
 #  RuleMesh Rule Set (Egern)
 #  Service:    AI
-#  Generated:  2026-08-20T22:34:53.476Z
+#  Generated:  2026-08-20T22:39:24.154Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:010b9771564406e02ef0c0a361740ab3e0081c92
+#  Fingerprint:6e7eca73c57e945b94301eb4331d40eb033c6139
 #----------------------------------------------------------
-#  Types:      DOMAIN-SUFFIX×54  DOMAIN×25  DOMAIN-KEYWORD×6  IP-ASN×2  IP-CIDR×2
+#  Types:      DOMAIN-SUFFIX×81  DOMAIN×27  DOMAIN-KEYWORD×6  IP-ASN×2  IP-CIDR×2
 #==========================================================
 no_resolve: true
 
@@ -21,6 +21,7 @@ domain_set:
   - "ai.google.dev"
   - "alkalimakersuite-pa.clients6.google.com"
   - "makersuite.google.com"
+  - "generativelanguage.googleapis.com"
   - "api.msn.com"
   - "api.statsig.com"
   - "assets.msn.com"
@@ -35,6 +36,7 @@ domain_set:
   - "services.bingapis.com"
   - "sydney.bing.com"
   - "www.bing.com"
+  - "cdn.usefathom.com"
 domain_suffix_set:
   - "ai.com"
   - "algolia.net"
@@ -90,6 +92,33 @@ domain_suffix_set:
   - "mask-api.fe.apple-dns.net"
   - "mask-t.apple-dns.net"
   - "apps.mzstatic.com"
+  - "grok.com"
+  - "x.ai"
+  - "perplexity.ai"
+  - "pplx.ai"
+  - "midjourney.com"
+  - "mj.com"
+  - "poe.com"
+  - "poe.ai"
+  - "huggingface.co"
+  - "character.ai"
+  - "suno.com"
+  - "suno.ai"
+  - "elevenlabs.io"
+  - "stability.ai"
+  - "runwayml.com"
+  - "lumalabs.ai"
+  - "ideogram.ai"
+  - "meta.ai"
+  - "ai.meta.com"
+  - "mistral.ai"
+  - "deepl.com"
+  - "cohere.com"
+  - "cursor.com"
+  - "windsurf.com"
+  - "codeium.com"
+  - "replit.com"
+  - "bolt.new"
 domain_keyword_set:
   - "openai"
   - "colab"

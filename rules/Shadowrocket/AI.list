@@ -1,11 +1,11 @@
 #==========================================================
 #  RuleMesh Rule Set (Shadowrocket)
 #  Service:    AI
-#  Generated:  2026-08-20T22:34:53.431Z
+#  Generated:  2026-08-20T22:39:24.110Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:010b9771564406e02ef0c0a361740ab3e0081c92
+#  Fingerprint:6e7eca73c57e945b94301eb4331d40eb033c6139
 #----------------------------------------------------------
-#  Types:      DOMAIN-SUFFIX×54  DOMAIN×25  DOMAIN-KEYWORD×6  IP-ASN×2  IP-CIDR×2
+#  Types:      DOMAIN-SUFFIX×81  DOMAIN×27  DOMAIN-KEYWORD×6  IP-ASN×2  IP-CIDR×2
 #==========================================================
 
 DOMAIN,browser-intake-datadoghq.com
@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN,api.msn.com
 DOMAIN,api.statsig.com
 DOMAIN,assets.msn.com
@@ -93,6 +94,34 @@ DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
 DOMAIN-SUFFIX,mask-t.apple-dns.net
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-KEYWORD,siri
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,mj.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poe.ai
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,suno.ai
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,lumalabs.ai
+DOMAIN-SUFFIX,ideogram.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,ai.meta.com
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,windsurf.com
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,replit.com
+DOMAIN-SUFFIX,bolt.new
 IP-ASN,20473,no-resolve
 IP-ASN,14061,no-resolve
 IP-CIDR,24.199.123.28/32,no-resolve
