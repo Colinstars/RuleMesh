@@ -1,0 +1,33 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Twitch
+#  Generated:  2026-08-20T21:22:24.352Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:5a059bb3733b932c92861cc9b7457c70e12a2273
+#------------------------------------------------------
+#  Types:      IP-CIDR×11  DOMAIN-SUFFIX×8  DOMAIN-KEYWORD×1  PROCESS-NAME×1  IP-CIDR6×1
+#======================================================
+
+host-suffix,ext-twitch.tv
+host-suffix,jtvnw.net
+host-suffix,live-video.net
+host-suffix,ttvnw.net
+host-suffix,twitch-ext.rootonline.de
+host-suffix,twitch.tv
+host-suffix,twitchcdn.net
+host-suffix,twitchsvc.net
+host-keyword,ttvnw
+ip-cidr,23.160.0.0/24,no-resolve
+ip-cidr,45.113.128.0/22,no-resolve
+ip-cidr,52.223.192.0/20,no-resolve
+ip-cidr,52.223.208.0/21,no-resolve
+ip-cidr,52.223.224.0/19,no-resolve
+ip-cidr,99.181.64.0/18,no-resolve
+ip-cidr,103.53.48.0/23,no-resolve
+ip-cidr,185.42.204.0/22,no-resolve
+ip-cidr,192.16.64.0/21,no-resolve
+ip-cidr,192.108.239.0/24,no-resolve
+ip-cidr,199.9.248.0/21,no-resolve
+ip6-cidr,2402:2a80::/32,no-resolve
+
+# note: 1 rule(s) unsupported by QuantumultX, skipped: PROCESS-NAME×1

@@ -1,0 +1,40 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    AmazonPrimeVideo
+#  Generated:  2026-08-20T21:22:24.359Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:633a31ce9a02a4e3ffeebc641acf8a36a1c44f43
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×19  DOMAIN×5  DOMAIN-KEYWORD×1  PROCESS-NAME×1
+#==========================================================
+
+domain_set:
+  - "d1v5ir2lpwr8os.cloudfront.net"
+  - "d22qjgkvxw22r6.cloudfront.net"
+  - "d25xi40x97liuc.cloudfront.net"
+  - "d27xxe7juh1us6.cloudfront.net"
+  - "dmqdd6hw24ucf.cloudfront.net"
+domain_suffix_set:
+  - "aiv-cdn.net"
+  - "aiv-delivery.net"
+  - "amazonprimevideo.cn"
+  - "amazonprimevideo.com.cn"
+  - "amazonprimevideos.com"
+  - "amazonvideo.cc"
+  - "amazonvideo.com"
+  - "atv-ps.amazon.com"
+  - "avodmp4s3ww-a.akamaihd.net"
+  - "fls-na.amazon.com"
+  - "llnwd.net"
+  - "media-amazon.com"
+  - "prime-video.com"
+  - "primevideo.cc"
+  - "primevideo.com"
+  - "primevideo.info"
+  - "primevideo.org"
+  - "primevideo.tv"
+  - "pv-cdn.net"
+domain_keyword_set:
+  - "avoddashs"
+
+# note: 1 rule(s) unsupported by Egern, skipped: PROCESS-NAME×1

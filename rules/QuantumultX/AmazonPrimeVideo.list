@@ -1,0 +1,37 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    AmazonPrimeVideo
+#  Generated:  2026-08-20T21:22:24.349Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:633a31ce9a02a4e3ffeebc641acf8a36a1c44f43
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×19  DOMAIN×5  DOMAIN-KEYWORD×1  PROCESS-NAME×1
+#======================================================
+
+host,d1v5ir2lpwr8os.cloudfront.net
+host,d22qjgkvxw22r6.cloudfront.net
+host,d25xi40x97liuc.cloudfront.net
+host,d27xxe7juh1us6.cloudfront.net
+host,dmqdd6hw24ucf.cloudfront.net
+host-suffix,aiv-cdn.net
+host-suffix,aiv-delivery.net
+host-suffix,amazonprimevideo.cn
+host-suffix,amazonprimevideo.com.cn
+host-suffix,amazonprimevideos.com
+host-suffix,amazonvideo.cc
+host-suffix,amazonvideo.com
+host-suffix,atv-ps.amazon.com
+host-suffix,avodmp4s3ww-a.akamaihd.net
+host-suffix,fls-na.amazon.com
+host-suffix,llnwd.net
+host-suffix,media-amazon.com
+host-suffix,prime-video.com
+host-suffix,primevideo.cc
+host-suffix,primevideo.com
+host-suffix,primevideo.info
+host-suffix,primevideo.org
+host-suffix,primevideo.tv
+host-suffix,pv-cdn.net
+host-keyword,avoddashs
+
+# note: 1 rule(s) unsupported by QuantumultX, skipped: PROCESS-NAME×1

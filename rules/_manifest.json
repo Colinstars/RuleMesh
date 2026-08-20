@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-08-20T21:06:49.482Z",
+  "generatedAt": "2026-08-20T21:22:24.364Z",
   "version": 1,
   "services": [
+    "AmazonPrimeVideo",
     "China",
     "Disney",
     "Hulu",
@@ -10,6 +11,7 @@
     "Spotify",
     "Telegram",
     "Tiktok",
+    "Twitch",
     "YouTube"
   ],
   "clients": [
@@ -20,9 +22,18 @@
     "Shadowrocket",
     "Egern"
   ],
-  "files": 63,
-  "rules": 1709,
+  "files": 77,
+  "rules": 1794,
   "byService": {
+    "AmazonPrimeVideo": [
+      "Surge/AmazonPrimeVideo.list",
+      "Clash/AmazonPrimeVideo.yaml",
+      "Loon/AmazonPrimeVideo.list",
+      "QuantumultX/AmazonPrimeVideo.list",
+      "Shadowrocket/AmazonPrimeVideo.list",
+      "Shadowrocket/AmazonPrimeVideo_Resolve.list",
+      "Egern/AmazonPrimeVideo.yaml"
+    ],
     "China": [
       "Surge/China.list",
       "Clash/China.yaml",
@@ -94,6 +105,15 @@
       "Shadowrocket/Tiktok.list",
       "Shadowrocket/Tiktok_Resolve.list",
       "Egern/Tiktok.yaml"
+    ],
+    "Twitch": [
+      "Surge/Twitch.list",
+      "Clash/Twitch.yaml",
+      "Loon/Twitch.list",
+      "QuantumultX/Twitch.list",
+      "Shadowrocket/Twitch.list",
+      "Shadowrocket/Twitch_Resolve.list",
+      "Egern/Twitch.yaml"
     ],
     "YouTube": [
       "Surge/YouTube.list",
