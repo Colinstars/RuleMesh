@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:25:01.636Z",
+  "generatedAt": "2026-08-20T18:28:30.945Z",
   "version": 1,
   "services": [
     "Netflix",
@@ -7,6 +7,52 @@
     "Telegram",
     "Tiktok"
   ],
+  "clients": [
+    "Surge",
+    "Clash",
+    "Loon",
+    "QuantumultX",
+    "Shadowrocket",
+    "Egern"
+  ],
   "files": 28,
-  "rules": 1258
+  "rules": 1258,
+  "byService": {
+    "Netflix": [
+      "Surge/Netflix.list",
+      "Clash/Netflix.yaml",
+      "Loon/Netflix.list",
+      "QuantumultX/Netflix.list",
+      "Shadowrocket/Netflix.list",
+      "Shadowrocket/Netflix_Resolve.list",
+      "Egern/Netflix.yaml"
+    ],
+    "Spotify": [
+      "Surge/Spotify.list",
+      "Clash/Spotify.yaml",
+      "Loon/Spotify.list",
+      "QuantumultX/Spotify.list",
+      "Shadowrocket/Spotify.list",
+      "Shadowrocket/Spotify_Resolve.list",
+      "Egern/Spotify.yaml"
+    ],
+    "Telegram": [
+      "Surge/Telegram.list",
+      "Clash/Telegram.yaml",
+      "Loon/Telegram.list",
+      "QuantumultX/Telegram.list",
+      "Shadowrocket/Telegram.list",
+      "Shadowrocket/Telegram_Resolve.list",
+      "Egern/Telegram.yaml"
+    ],
+    "Tiktok": [
+      "Surge/Tiktok.list",
+      "Clash/Tiktok.yaml",
+      "Loon/Tiktok.list",
+      "QuantumultX/Tiktok.list",
+      "Shadowrocket/Tiktok.list",
+      "Shadowrocket/Tiktok_Resolve.list",
+      "Egern/Tiktok.yaml"
+    ]
+  }
 }
