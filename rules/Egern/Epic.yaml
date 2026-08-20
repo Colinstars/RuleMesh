@@ -1,0 +1,26 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Epic
+#  Generated:  2026-08-20T21:52:24.420Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a214175066c5af414696d32ebf9649218a8111bc
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×15
+#==========================================================
+
+domain_suffix_set:
+  - "battlebreakers.com"
+  - "eac-cdn.com"
+  - "easy.ac"
+  - "easyanticheat.net"
+  - "epicgames.com"
+  - "epicgames.dev"
+  - "fortnite.com"
+  - "helpshift.com"
+  - "paragon.com"
+  - "playparagon.com"
+  - "roborecall.com"
+  - "shadowcomplex.com"
+  - "spyjinx.com"
+  - "unrealengine.com"
+  - "unrealtournament.com"

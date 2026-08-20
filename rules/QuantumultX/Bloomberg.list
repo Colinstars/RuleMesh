@@ -1,0 +1,32 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Bloomberg
+#  Generated:  2026-08-20T21:52:24.385Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:9b6cd1c6335888ad8aab80a7f866cbee41ea5a06
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×22
+#======================================================
+
+host-suffix,bloomberg.co.kr
+host-suffix,bloomberg.com
+host-suffix,bloomberg.com.br
+host-suffix,bloomberg.fm
+host-suffix,bloomberg.tv
+host-suffix,bloombergapps.com
+host-suffix,bloombergarcade.com
+host-suffix,bloombergbeta.com
+host-suffix,blpprofessional.com
+host-suffix,bmia.org
+host-suffix,bnef.com
+host-suffix,businessweek.com
+host-suffix,businessweekmag.com
+host-suffix,bwbx.io
+host-suffix,citylab.com
+host-suffix,gotraffic.net
+host-suffix,londonmithraeum.com
+host-suffix,neweconomyforum.com
+host-suffix,newenergyfinance.com
+host-suffix,quicktake.video
+host-suffix,techatbloomberg.com
+host-suffix,tictoc.video

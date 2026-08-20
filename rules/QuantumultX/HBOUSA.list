@@ -1,0 +1,22 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    HBOUSA
+#  Generated:  2026-08-20T21:52:24.388Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a5ecc01050e587656c343e81eca8ff142fa0e4f5
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×9  DOMAIN×1  PROCESS-NAME×1
+#======================================================
+
+host,wmff.warnermediacdn.com
+host-suffix,cinemax.com
+host-suffix,discomax.com
+host-suffix,h264.io
+host-suffix,hbomax.com
+host-suffix,hbomaxcdn.com
+host-suffix,hbomaxdash.s.llnwi.net
+host-suffix,hbonow.com
+host-suffix,max.com
+host-suffix,maxgo.com
+
+# note: 1 rule(s) unsupported by QuantumultX, skipped: PROCESS-NAME×1

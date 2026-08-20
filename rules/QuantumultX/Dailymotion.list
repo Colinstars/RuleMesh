@@ -1,0 +1,15 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Dailymotion
+#  Generated:  2026-08-20T21:52:24.386Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:e80fcfcb808a6ed2784b85326d28c398b2bd3eb3
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×5
+#======================================================
+
+host-suffix,dai.ly
+host-suffix,dailymotion.com
+host-suffix,dm-event.net
+host-suffix,dmcdn.net
+host-suffix,dmxleo.com

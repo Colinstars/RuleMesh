@@ -1,0 +1,27 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Dropbox
+#  Generated:  2026-08-20T21:52:24.386Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:b958003c6b5c194950f3be8e5e9b77f316c7fef7
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×17
+#======================================================
+
+host-suffix,db.tt
+host-suffix,dropbox-dns.com
+host-suffix,dropbox.com
+host-suffix,dropbox.tech
+host-suffix,dropbox.zendesk.com
+host-suffix,dropboxapi.com
+host-suffix,dropboxbusiness.com
+host-suffix,dropboxcaptcha.com
+host-suffix,dropboxforum.com
+host-suffix,dropboxforums.com
+host-suffix,dropboxinsiders.com
+host-suffix,dropboxmail.com
+host-suffix,dropboxpartners.com
+host-suffix,dropboxstatic.com
+host-suffix,dropboxusercontent.com
+host-suffix,getdropbox.com
+host-suffix,paper-attachments.s3.amazonaws.com

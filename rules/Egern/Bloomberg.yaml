@@ -1,0 +1,33 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Bloomberg
+#  Generated:  2026-08-20T21:52:24.418Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:9b6cd1c6335888ad8aab80a7f866cbee41ea5a06
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×22
+#==========================================================
+
+domain_suffix_set:
+  - "bloomberg.co.kr"
+  - "bloomberg.com"
+  - "bloomberg.com.br"
+  - "bloomberg.fm"
+  - "bloomberg.tv"
+  - "bloombergapps.com"
+  - "bloombergarcade.com"
+  - "bloombergbeta.com"
+  - "blpprofessional.com"
+  - "bmia.org"
+  - "bnef.com"
+  - "businessweek.com"
+  - "businessweekmag.com"
+  - "bwbx.io"
+  - "citylab.com"
+  - "gotraffic.net"
+  - "londonmithraeum.com"
+  - "neweconomyforum.com"
+  - "newenergyfinance.com"
+  - "quicktake.video"
+  - "techatbloomberg.com"
+  - "tictoc.video"

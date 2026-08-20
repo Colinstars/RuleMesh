@@ -1,0 +1,16 @@
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
+#  Service:    Notion
+#  Generated:  2026-08-20T21:52:24.404Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:1936bb49af41546c5293a74ef652b647835358cc
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×5  DOMAIN×1
+#==========================================================
+
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so

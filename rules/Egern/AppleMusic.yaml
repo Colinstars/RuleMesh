@@ -1,0 +1,23 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    AppleMusic
+#  Generated:  2026-08-20T21:52:24.416Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:648a3f707686d2902fabb92577fc438b19138632
+#----------------------------------------------------------
+#  Types:      DOMAIN×6  DOMAIN-SUFFIX×3  PROCESS-NAME×1
+#==========================================================
+
+domain_set:
+  - "aod-ssl.itunes.apple.com"
+  - "aod.itunes.apple.com"
+  - "audio-ssl.itunes.apple.com"
+  - "audio.itunes.apple.com"
+  - "mvod.itunes.apple.com"
+  - "streamingaudio.itunes.apple.com"
+domain_suffix_set:
+  - "applemusic.com"
+  - "blobstore.apple.com"
+  - "music.apple.com"
+
+# note: 1 rule(s) unsupported by Egern, skipped: PROCESS-NAME×1

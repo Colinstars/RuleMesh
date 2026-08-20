@@ -1,0 +1,16 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Dailymotion
+#  Generated:  2026-08-20T21:52:24.419Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:e80fcfcb808a6ed2784b85326d28c398b2bd3eb3
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×5
+#==========================================================
+
+domain_suffix_set:
+  - "dai.ly"
+  - "dailymotion.com"
+  - "dm-event.net"
+  - "dmcdn.net"
+  - "dmxleo.com"

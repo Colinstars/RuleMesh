@@ -1,0 +1,18 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Reddit
+#  Generated:  2026-08-20T21:52:24.390Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:0429a8537d58f9409ab94051f1ae49d3a884fad3
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×8
+#======================================================
+
+host-suffix,redd.it
+host-suffix,reddit.com
+host-suffix,redditmail.com
+host-suffix,redditmedia.com
+host-suffix,redditstatic.com
+host-suffix,reddituploads.com
+host-suffix,reddituploads.com.cdn-cf.behance.net
+host-suffix,reddituploads.com.cdn-cf.dropbox.com

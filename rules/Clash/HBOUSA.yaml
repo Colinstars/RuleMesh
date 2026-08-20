@@ -1,0 +1,21 @@
+#======================================================
+#  RuleMesh Rule Set (Clash)
+#  Service:    HBOUSA
+#  Generated:  2026-08-20T21:52:24.368Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a5ecc01050e587656c343e81eca8ff142fa0e4f5
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×9  DOMAIN×1  PROCESS-NAME×1
+#======================================================
+
+DOMAIN,wmff.warnermediacdn.com
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,h264.io
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,maxgo.com
+PROCESS-NAME,com.hbo.hbonow

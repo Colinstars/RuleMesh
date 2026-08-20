@@ -1,0 +1,23 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Wikipedia
+#  Generated:  2026-08-20T21:52:24.430Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a64bb46f1f7928122e2bfd608cc8d770d47dc40f
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×12
+#==========================================================
+
+domain_suffix_set:
+  - "mediawiki.org"
+  - "wikibooks.org"
+  - "wikidata.org"
+  - "wikileaks.org"
+  - "wikimedia.org"
+  - "wikinews.org"
+  - "wikipedia.org"
+  - "wikiquote.org"
+  - "wikisource.org"
+  - "wikiversity.org"
+  - "wikivoyage.org"
+  - "wiktionary.org"

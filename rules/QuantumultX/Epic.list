@@ -1,0 +1,25 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Epic
+#  Generated:  2026-08-20T21:52:24.386Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a214175066c5af414696d32ebf9649218a8111bc
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×15
+#======================================================
+
+host-suffix,battlebreakers.com
+host-suffix,eac-cdn.com
+host-suffix,easy.ac
+host-suffix,easyanticheat.net
+host-suffix,epicgames.com
+host-suffix,epicgames.dev
+host-suffix,fortnite.com
+host-suffix,helpshift.com
+host-suffix,paragon.com
+host-suffix,playparagon.com
+host-suffix,roborecall.com
+host-suffix,shadowcomplex.com
+host-suffix,spyjinx.com
+host-suffix,unrealengine.com
+host-suffix,unrealtournament.com

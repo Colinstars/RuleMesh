@@ -1,0 +1,13 @@
+#======================================================
+#  RuleMesh Rule Set (Loon)
+#  Service:    SoundCloud
+#  Generated:  2026-08-20T21:52:24.382Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:b5676b03dc264202f0071cc2c47adbb90214e053
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×3
+#======================================================
+
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com

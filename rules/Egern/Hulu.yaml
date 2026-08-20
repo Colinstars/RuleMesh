@@ -1,13 +1,15 @@
 #==========================================================
 #  RuleMesh Rule Set (Egern)
 #  Service:    Hulu
-#  Generated:  2026-08-20T21:25:35.797Z
+#  Generated:  2026-08-20T21:52:24.425Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:f7f0ea0fe2022057eb682d4979091e6d091beaf4
+#  Fingerprint:a66388954e031c2b7dc17712ec7a8b19d05281e8
 #----------------------------------------------------------
-#  Types:      DOMAIN-SUFFIX×52  PROCESS-NAME×1
+#  Types:      DOMAIN-SUFFIX×57  PROCESS-NAME×1  DOMAIN×1
 #==========================================================
 
+domain_set:
+  - "live-mediashield-ava-hulustream-com.akamaized.net"
 domain_suffix_set:
   - "112263.com"
   - "assetshuluimcom-a.akamaihd.net"
@@ -61,5 +63,10 @@ domain_suffix_set:
   - "registerhulu.com"
   - "thehulubraintrust.com"
   - "wwwhuluplus.com"
+  - "happyon.jp"
+  - "hjholdings.jp"
+  - "hulu.jp"
+  - "streaks.jp"
+  - "yb.uncn.jp"
 
 # note: 1 rule(s) unsupported by Egern, skipped: PROCESS-NAME×1

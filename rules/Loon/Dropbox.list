@@ -1,0 +1,27 @@
+#======================================================
+#  RuleMesh Rule Set (Loon)
+#  Service:    Dropbox
+#  Generated:  2026-08-20T21:52:24.377Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:b958003c6b5c194950f3be8e5e9b77f316c7fef7
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×17
+#======================================================
+
+DOMAIN-SUFFIX,db.tt
+DOMAIN-SUFFIX,dropbox-dns.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropbox.tech
+DOMAIN-SUFFIX,dropbox.zendesk.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxbusiness.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,dropboxforum.com
+DOMAIN-SUFFIX,dropboxforums.com
+DOMAIN-SUFFIX,dropboxinsiders.com
+DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,dropboxpartners.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,getdropbox.com
+DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com

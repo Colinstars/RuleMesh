@@ -1,0 +1,14 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    TIDAL
+#  Generated:  2026-08-20T21:52:24.391Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:b6aace97c6df9a788ca12c7faa4cb83a23ef09b7
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×4
+#======================================================
+
+host-suffix,tidal-cms.s3.amazonaws.com
+host-suffix,tidal.com
+host-suffix,tidalhifi.com
+host-suffix,wimpmusic.com

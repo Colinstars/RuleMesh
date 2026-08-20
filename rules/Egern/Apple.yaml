@@ -1,0 +1,36 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Apple
+#  Generated:  2026-08-20T21:52:24.415Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:f84e909dff342860f18c71fd04a62333ae0bc82f
+#----------------------------------------------------------
+#  Types:      PROCESS-NAME×13  IP-CIDR×10  DOMAIN-KEYWORD×7  IP-CIDR6×3
+#==========================================================
+no_resolve: true
+
+domain_keyword_set:
+  - "apple-support.akadns.net"
+  - "apple.com.akadns.net"
+  - "apple.com.edgekey.net"
+  - "buy.itunes.apple.com"
+  - "smp-device"
+  - "testflight"
+  - "icloud.com.akadns.net"
+ip_cidr_set:
+  - "17.0.0.0/8"
+  - "63.92.224.0/19"
+  - "65.199.22.0/23"
+  - "139.178.128.0/18"
+  - "144.178.0.0/19"
+  - "144.178.36.0/22"
+  - "144.178.48.0/20"
+  - "192.35.50.0/24"
+  - "198.183.17.0/24"
+  - "205.180.175.0/24"
+ip_cidr6_set:
+  - "2403:300::/32"
+  - "2620:149::/32"
+  - "2a01:b740::/32"
+
+# note: 13 rule(s) unsupported by Egern, skipped: PROCESS-NAME×13

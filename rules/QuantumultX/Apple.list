@@ -1,0 +1,32 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Apple
+#  Generated:  2026-08-20T21:52:24.385Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:f84e909dff342860f18c71fd04a62333ae0bc82f
+#------------------------------------------------------
+#  Types:      PROCESS-NAME×13  IP-CIDR×10  DOMAIN-KEYWORD×7  IP-CIDR6×3
+#======================================================
+
+host-keyword,apple-support.akadns.net
+host-keyword,apple.com.akadns.net
+host-keyword,apple.com.edgekey.net
+host-keyword,buy.itunes.apple.com
+host-keyword,smp-device
+host-keyword,testflight
+host-keyword,icloud.com.akadns.net
+ip-cidr,17.0.0.0/8,no-resolve
+ip-cidr,63.92.224.0/19,no-resolve
+ip-cidr,65.199.22.0/23,no-resolve
+ip-cidr,139.178.128.0/18,no-resolve
+ip-cidr,144.178.0.0/19,no-resolve
+ip-cidr,144.178.36.0/22,no-resolve
+ip-cidr,144.178.48.0/20,no-resolve
+ip-cidr,192.35.50.0/24,no-resolve
+ip-cidr,198.183.17.0/24,no-resolve
+ip-cidr,205.180.175.0/24,no-resolve
+ip6-cidr,2403:300::/32,no-resolve
+ip6-cidr,2620:149::/32,no-resolve
+ip6-cidr,2a01:b740::/32,no-resolve
+
+# note: 13 rule(s) unsupported by QuantumultX, skipped: PROCESS-NAME×13

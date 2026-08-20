@@ -1,0 +1,26 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    NYTimes
+#  Generated:  2026-08-20T21:52:24.389Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:469cba7ef167b7773e2f2326555a19fbdb505b0a
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×16
+#======================================================
+
+host-suffix,d1f1eryiqyjs0r.cloudfront.net
+host-suffix,d3lar09xbwlsge.cloudfront.net
+host-suffix,d3q1qj9jzsu8nw.cloudfront.net
+host-suffix,dc8xl0ndzn2cb.cloudfront.net
+host-suffix,nyt.com
+host-suffix,nyt.net
+host-suffix,nytchina.com
+host-suffix,nytcn.me
+host-suffix,nytco.com
+host-suffix,nyti.ms
+host-suffix,nytimes.com
+host-suffix,nytimg.com
+host-suffix,nytlog.com
+host-suffix,nytstyle.com
+host-suffix,timestalks.com
+host-suffix,tynt.com

@@ -1,11 +1,11 @@
 #======================================================
 #  RuleMesh Rule Set (Clash)
 #  Service:    Hulu
-#  Generated:  2026-08-20T21:25:35.777Z
+#  Generated:  2026-08-20T21:52:24.368Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:f7f0ea0fe2022057eb682d4979091e6d091beaf4
+#  Fingerprint:a66388954e031c2b7dc17712ec7a8b19d05281e8
 #------------------------------------------------------
-#  Types:      DOMAIN-SUFFIX×52  PROCESS-NAME×1
+#  Types:      DOMAIN-SUFFIX×57  PROCESS-NAME×1  DOMAIN×1
 #======================================================
 
 DOMAIN-SUFFIX,112263.com
@@ -60,4 +60,10 @@ DOMAIN-SUFFIX,prod.hjholdings.tv
 DOMAIN-SUFFIX,registerhulu.com
 DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,wwwhuluplus.com
+DOMAIN,live-mediashield-ava-hulustream-com.akamaized.net
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hjholdings.jp
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,streaks.jp
+DOMAIN-SUFFIX,yb.uncn.jp
 PROCESS-NAME,com.hulu.plus

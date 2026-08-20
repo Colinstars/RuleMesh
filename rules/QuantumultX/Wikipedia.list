@@ -1,0 +1,22 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Wikipedia
+#  Generated:  2026-08-20T21:52:24.391Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a64bb46f1f7928122e2bfd608cc8d770d47dc40f
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×12
+#======================================================
+
+host-suffix,mediawiki.org
+host-suffix,wikibooks.org
+host-suffix,wikidata.org
+host-suffix,wikileaks.org
+host-suffix,wikimedia.org
+host-suffix,wikinews.org
+host-suffix,wikipedia.org
+host-suffix,wikiquote.org
+host-suffix,wikisource.org
+host-suffix,wikiversity.org
+host-suffix,wikivoyage.org
+host-suffix,wiktionary.org

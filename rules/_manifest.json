@@ -1,18 +1,72 @@
 {
-  "generatedAt": "2026-08-20T21:25:35.802Z",
+  "generatedAt": "2026-08-20T21:52:24.430Z",
   "version": 1,
   "services": [
+    "Amazon",
     "AmazonPrimeVideo",
+    "Apple",
+    "AppleMusic",
+    "AppleTV",
+    "BBC",
+    "BiliBili",
+    "Bloomberg",
+    "CNN",
     "China",
+    "Cloudflare",
+    "Dailymotion",
+    "Deezer",
+    "DigitalOcean",
+    "Discord",
     "Disney",
+    "DouBan",
+    "Dropbox",
+    "EA",
+    "Epic",
+    "Facebook",
+    "Figma",
+    "GitHub",
+    "GitLab",
+    "Gog",
+    "Google",
+    "GoogleDrive",
+    "HBOUSA",
     "Hulu",
     "Instagram",
+    "LinkedIn",
+    "Microsoft",
+    "NYTimes",
     "Netflix",
+    "Nintendo",
+    "Notion",
+    "OneDrive",
+    "OpenAI",
+    "ParamountPlus",
+    "Peacock",
+    "Pinterest",
+    "PlayStation",
+    "PrimeVideo",
+    "Reddit",
+    "Slack",
+    "SoundCloud",
     "Spotify",
+    "Steam",
+    "TIDAL",
     "Telegram",
+    "Threads",
+    "TikTok",
     "Tiktok",
     "Twitch",
-    "YouTube"
+    "Twitter",
+    "Ubisoft",
+    "VK",
+    "Vercel",
+    "Vimeo",
+    "Weibo",
+    "Whatsapp",
+    "Wikipedia",
+    "YouTube",
+    "YouTubeMusic",
+    "Zhihu"
   ],
   "clients": [
     "Surge",
@@ -22,9 +76,18 @@
     "Shadowrocket",
     "Egern"
   ],
-  "files": 77,
-  "rules": 1794,
+  "files": 455,
+  "rules": 5047,
   "byService": {
+    "Amazon": [
+      "Surge/Amazon.list",
+      "Clash/Amazon.yaml",
+      "Loon/Amazon.list",
+      "QuantumultX/Amazon.list",
+      "Shadowrocket/Amazon.list",
+      "Shadowrocket/Amazon_Resolve.list",
+      "Egern/Amazon.yaml"
+    ],
     "AmazonPrimeVideo": [
       "Surge/AmazonPrimeVideo.list",
       "Clash/AmazonPrimeVideo.yaml",
@@ -33,6 +96,69 @@
       "Shadowrocket/AmazonPrimeVideo.list",
       "Shadowrocket/AmazonPrimeVideo_Resolve.list",
       "Egern/AmazonPrimeVideo.yaml"
+    ],
+    "Apple": [
+      "Surge/Apple.list",
+      "Clash/Apple.yaml",
+      "Loon/Apple.list",
+      "QuantumultX/Apple.list",
+      "Shadowrocket/Apple.list",
+      "Shadowrocket/Apple_Resolve.list",
+      "Egern/Apple.yaml"
+    ],
+    "AppleMusic": [
+      "Surge/AppleMusic.list",
+      "Clash/AppleMusic.yaml",
+      "Loon/AppleMusic.list",
+      "QuantumultX/AppleMusic.list",
+      "Shadowrocket/AppleMusic.list",
+      "Shadowrocket/AppleMusic_Resolve.list",
+      "Egern/AppleMusic.yaml"
+    ],
+    "AppleTV": [
+      "Surge/AppleTV.list",
+      "Clash/AppleTV.yaml",
+      "Loon/AppleTV.list",
+      "QuantumultX/AppleTV.list",
+      "Shadowrocket/AppleTV.list",
+      "Shadowrocket/AppleTV_Resolve.list",
+      "Egern/AppleTV.yaml"
+    ],
+    "BBC": [
+      "Surge/BBC.list",
+      "Clash/BBC.yaml",
+      "Loon/BBC.list",
+      "QuantumultX/BBC.list",
+      "Shadowrocket/BBC.list",
+      "Shadowrocket/BBC_Resolve.list",
+      "Egern/BBC.yaml"
+    ],
+    "BiliBili": [
+      "Surge/BiliBili.list",
+      "Clash/BiliBili.yaml",
+      "Loon/BiliBili.list",
+      "QuantumultX/BiliBili.list",
+      "Shadowrocket/BiliBili.list",
+      "Shadowrocket/BiliBili_Resolve.list",
+      "Egern/BiliBili.yaml"
+    ],
+    "Bloomberg": [
+      "Surge/Bloomberg.list",
+      "Clash/Bloomberg.yaml",
+      "Loon/Bloomberg.list",
+      "QuantumultX/Bloomberg.list",
+      "Shadowrocket/Bloomberg.list",
+      "Shadowrocket/Bloomberg_Resolve.list",
+      "Egern/Bloomberg.yaml"
+    ],
+    "CNN": [
+      "Surge/CNN.list",
+      "Clash/CNN.yaml",
+      "Loon/CNN.list",
+      "QuantumultX/CNN.list",
+      "Shadowrocket/CNN.list",
+      "Shadowrocket/CNN_Resolve.list",
+      "Egern/CNN.yaml"
     ],
     "China": [
       "Surge/China.list",
@@ -43,6 +169,51 @@
       "Shadowrocket/China_Resolve.list",
       "Egern/China.yaml"
     ],
+    "Cloudflare": [
+      "Surge/Cloudflare.list",
+      "Clash/Cloudflare.yaml",
+      "Loon/Cloudflare.list",
+      "QuantumultX/Cloudflare.list",
+      "Shadowrocket/Cloudflare.list",
+      "Shadowrocket/Cloudflare_Resolve.list",
+      "Egern/Cloudflare.yaml"
+    ],
+    "Dailymotion": [
+      "Surge/Dailymotion.list",
+      "Clash/Dailymotion.yaml",
+      "Loon/Dailymotion.list",
+      "QuantumultX/Dailymotion.list",
+      "Shadowrocket/Dailymotion.list",
+      "Shadowrocket/Dailymotion_Resolve.list",
+      "Egern/Dailymotion.yaml"
+    ],
+    "Deezer": [
+      "Surge/Deezer.list",
+      "Clash/Deezer.yaml",
+      "Loon/Deezer.list",
+      "QuantumultX/Deezer.list",
+      "Shadowrocket/Deezer.list",
+      "Shadowrocket/Deezer_Resolve.list",
+      "Egern/Deezer.yaml"
+    ],
+    "DigitalOcean": [
+      "Surge/DigitalOcean.list",
+      "Clash/DigitalOcean.yaml",
+      "Loon/DigitalOcean.list",
+      "QuantumultX/DigitalOcean.list",
+      "Shadowrocket/DigitalOcean.list",
+      "Shadowrocket/DigitalOcean_Resolve.list",
+      "Egern/DigitalOcean.yaml"
+    ],
+    "Discord": [
+      "Surge/Discord.list",
+      "Clash/Discord.yaml",
+      "Loon/Discord.list",
+      "QuantumultX/Discord.list",
+      "Shadowrocket/Discord.list",
+      "Shadowrocket/Discord_Resolve.list",
+      "Egern/Discord.yaml"
+    ],
     "Disney": [
       "Surge/Disney.list",
       "Clash/Disney.yaml",
@@ -51,6 +222,114 @@
       "Shadowrocket/Disney.list",
       "Shadowrocket/Disney_Resolve.list",
       "Egern/Disney.yaml"
+    ],
+    "DouBan": [
+      "Surge/DouBan.list",
+      "Clash/DouBan.yaml",
+      "Loon/DouBan.list",
+      "QuantumultX/DouBan.list",
+      "Shadowrocket/DouBan.list",
+      "Shadowrocket/DouBan_Resolve.list",
+      "Egern/DouBan.yaml"
+    ],
+    "Dropbox": [
+      "Surge/Dropbox.list",
+      "Clash/Dropbox.yaml",
+      "Loon/Dropbox.list",
+      "QuantumultX/Dropbox.list",
+      "Shadowrocket/Dropbox.list",
+      "Shadowrocket/Dropbox_Resolve.list",
+      "Egern/Dropbox.yaml"
+    ],
+    "EA": [
+      "Surge/EA.list",
+      "Clash/EA.yaml",
+      "Loon/EA.list",
+      "QuantumultX/EA.list",
+      "Shadowrocket/EA.list",
+      "Shadowrocket/EA_Resolve.list",
+      "Egern/EA.yaml"
+    ],
+    "Epic": [
+      "Surge/Epic.list",
+      "Clash/Epic.yaml",
+      "Loon/Epic.list",
+      "QuantumultX/Epic.list",
+      "Shadowrocket/Epic.list",
+      "Shadowrocket/Epic_Resolve.list",
+      "Egern/Epic.yaml"
+    ],
+    "Facebook": [
+      "Surge/Facebook.list",
+      "Clash/Facebook.yaml",
+      "Loon/Facebook.list",
+      "QuantumultX/Facebook.list",
+      "Shadowrocket/Facebook.list",
+      "Shadowrocket/Facebook_Resolve.list",
+      "Egern/Facebook.yaml"
+    ],
+    "Figma": [
+      "Surge/Figma.list",
+      "Clash/Figma.yaml",
+      "Loon/Figma.list",
+      "QuantumultX/Figma.list",
+      "Shadowrocket/Figma.list",
+      "Shadowrocket/Figma_Resolve.list",
+      "Egern/Figma.yaml"
+    ],
+    "GitHub": [
+      "Surge/GitHub.list",
+      "Clash/GitHub.yaml",
+      "Loon/GitHub.list",
+      "QuantumultX/GitHub.list",
+      "Shadowrocket/GitHub.list",
+      "Shadowrocket/GitHub_Resolve.list",
+      "Egern/GitHub.yaml"
+    ],
+    "GitLab": [
+      "Surge/GitLab.list",
+      "Clash/GitLab.yaml",
+      "Loon/GitLab.list",
+      "QuantumultX/GitLab.list",
+      "Shadowrocket/GitLab.list",
+      "Shadowrocket/GitLab_Resolve.list",
+      "Egern/GitLab.yaml"
+    ],
+    "Gog": [
+      "Surge/Gog.list",
+      "Clash/Gog.yaml",
+      "Loon/Gog.list",
+      "QuantumultX/Gog.list",
+      "Shadowrocket/Gog.list",
+      "Shadowrocket/Gog_Resolve.list",
+      "Egern/Gog.yaml"
+    ],
+    "Google": [
+      "Surge/Google.list",
+      "Clash/Google.yaml",
+      "Loon/Google.list",
+      "QuantumultX/Google.list",
+      "Shadowrocket/Google.list",
+      "Shadowrocket/Google_Resolve.list",
+      "Egern/Google.yaml"
+    ],
+    "GoogleDrive": [
+      "Surge/GoogleDrive.list",
+      "Clash/GoogleDrive.yaml",
+      "Loon/GoogleDrive.list",
+      "QuantumultX/GoogleDrive.list",
+      "Shadowrocket/GoogleDrive.list",
+      "Shadowrocket/GoogleDrive_Resolve.list",
+      "Egern/GoogleDrive.yaml"
+    ],
+    "HBOUSA": [
+      "Surge/HBOUSA.list",
+      "Clash/HBOUSA.yaml",
+      "Loon/HBOUSA.list",
+      "QuantumultX/HBOUSA.list",
+      "Shadowrocket/HBOUSA.list",
+      "Shadowrocket/HBOUSA_Resolve.list",
+      "Egern/HBOUSA.yaml"
     ],
     "Hulu": [
       "Surge/Hulu.list",
@@ -70,6 +349,33 @@
       "Shadowrocket/Instagram_Resolve.list",
       "Egern/Instagram.yaml"
     ],
+    "LinkedIn": [
+      "Surge/LinkedIn.list",
+      "Clash/LinkedIn.yaml",
+      "Loon/LinkedIn.list",
+      "QuantumultX/LinkedIn.list",
+      "Shadowrocket/LinkedIn.list",
+      "Shadowrocket/LinkedIn_Resolve.list",
+      "Egern/LinkedIn.yaml"
+    ],
+    "Microsoft": [
+      "Surge/Microsoft.list",
+      "Clash/Microsoft.yaml",
+      "Loon/Microsoft.list",
+      "QuantumultX/Microsoft.list",
+      "Shadowrocket/Microsoft.list",
+      "Shadowrocket/Microsoft_Resolve.list",
+      "Egern/Microsoft.yaml"
+    ],
+    "NYTimes": [
+      "Surge/NYTimes.list",
+      "Clash/NYTimes.yaml",
+      "Loon/NYTimes.list",
+      "QuantumultX/NYTimes.list",
+      "Shadowrocket/NYTimes.list",
+      "Shadowrocket/NYTimes_Resolve.list",
+      "Egern/NYTimes.yaml"
+    ],
     "Netflix": [
       "Surge/Netflix.list",
       "Clash/Netflix.yaml",
@@ -78,6 +384,114 @@
       "Shadowrocket/Netflix.list",
       "Shadowrocket/Netflix_Resolve.list",
       "Egern/Netflix.yaml"
+    ],
+    "Nintendo": [
+      "Surge/Nintendo.list",
+      "Clash/Nintendo.yaml",
+      "Loon/Nintendo.list",
+      "QuantumultX/Nintendo.list",
+      "Shadowrocket/Nintendo.list",
+      "Shadowrocket/Nintendo_Resolve.list",
+      "Egern/Nintendo.yaml"
+    ],
+    "Notion": [
+      "Surge/Notion.list",
+      "Clash/Notion.yaml",
+      "Loon/Notion.list",
+      "QuantumultX/Notion.list",
+      "Shadowrocket/Notion.list",
+      "Shadowrocket/Notion_Resolve.list",
+      "Egern/Notion.yaml"
+    ],
+    "OneDrive": [
+      "Surge/OneDrive.list",
+      "Clash/OneDrive.yaml",
+      "Loon/OneDrive.list",
+      "QuantumultX/OneDrive.list",
+      "Shadowrocket/OneDrive.list",
+      "Shadowrocket/OneDrive_Resolve.list",
+      "Egern/OneDrive.yaml"
+    ],
+    "OpenAI": [
+      "Surge/OpenAI.list",
+      "Clash/OpenAI.yaml",
+      "Loon/OpenAI.list",
+      "QuantumultX/OpenAI.list",
+      "Shadowrocket/OpenAI.list",
+      "Shadowrocket/OpenAI_Resolve.list",
+      "Egern/OpenAI.yaml"
+    ],
+    "ParamountPlus": [
+      "Surge/ParamountPlus.list",
+      "Clash/ParamountPlus.yaml",
+      "Loon/ParamountPlus.list",
+      "QuantumultX/ParamountPlus.list",
+      "Shadowrocket/ParamountPlus.list",
+      "Shadowrocket/ParamountPlus_Resolve.list",
+      "Egern/ParamountPlus.yaml"
+    ],
+    "Peacock": [
+      "Surge/Peacock.list",
+      "Clash/Peacock.yaml",
+      "Loon/Peacock.list",
+      "QuantumultX/Peacock.list",
+      "Shadowrocket/Peacock.list",
+      "Shadowrocket/Peacock_Resolve.list",
+      "Egern/Peacock.yaml"
+    ],
+    "Pinterest": [
+      "Surge/Pinterest.list",
+      "Clash/Pinterest.yaml",
+      "Loon/Pinterest.list",
+      "QuantumultX/Pinterest.list",
+      "Shadowrocket/Pinterest.list",
+      "Shadowrocket/Pinterest_Resolve.list",
+      "Egern/Pinterest.yaml"
+    ],
+    "PlayStation": [
+      "Surge/PlayStation.list",
+      "Clash/PlayStation.yaml",
+      "Loon/PlayStation.list",
+      "QuantumultX/PlayStation.list",
+      "Shadowrocket/PlayStation.list",
+      "Shadowrocket/PlayStation_Resolve.list",
+      "Egern/PlayStation.yaml"
+    ],
+    "PrimeVideo": [
+      "Surge/PrimeVideo.list",
+      "Clash/PrimeVideo.yaml",
+      "Loon/PrimeVideo.list",
+      "QuantumultX/PrimeVideo.list",
+      "Shadowrocket/PrimeVideo.list",
+      "Shadowrocket/PrimeVideo_Resolve.list",
+      "Egern/PrimeVideo.yaml"
+    ],
+    "Reddit": [
+      "Surge/Reddit.list",
+      "Clash/Reddit.yaml",
+      "Loon/Reddit.list",
+      "QuantumultX/Reddit.list",
+      "Shadowrocket/Reddit.list",
+      "Shadowrocket/Reddit_Resolve.list",
+      "Egern/Reddit.yaml"
+    ],
+    "Slack": [
+      "Surge/Slack.list",
+      "Clash/Slack.yaml",
+      "Loon/Slack.list",
+      "QuantumultX/Slack.list",
+      "Shadowrocket/Slack.list",
+      "Shadowrocket/Slack_Resolve.list",
+      "Egern/Slack.yaml"
+    ],
+    "SoundCloud": [
+      "Surge/SoundCloud.list",
+      "Clash/SoundCloud.yaml",
+      "Loon/SoundCloud.list",
+      "QuantumultX/SoundCloud.list",
+      "Shadowrocket/SoundCloud.list",
+      "Shadowrocket/SoundCloud_Resolve.list",
+      "Egern/SoundCloud.yaml"
     ],
     "Spotify": [
       "Surge/Spotify.list",
@@ -88,6 +502,24 @@
       "Shadowrocket/Spotify_Resolve.list",
       "Egern/Spotify.yaml"
     ],
+    "Steam": [
+      "Surge/Steam.list",
+      "Clash/Steam.yaml",
+      "Loon/Steam.list",
+      "QuantumultX/Steam.list",
+      "Shadowrocket/Steam.list",
+      "Shadowrocket/Steam_Resolve.list",
+      "Egern/Steam.yaml"
+    ],
+    "TIDAL": [
+      "Surge/TIDAL.list",
+      "Clash/TIDAL.yaml",
+      "Loon/TIDAL.list",
+      "QuantumultX/TIDAL.list",
+      "Shadowrocket/TIDAL.list",
+      "Shadowrocket/TIDAL_Resolve.list",
+      "Egern/TIDAL.yaml"
+    ],
     "Telegram": [
       "Surge/Telegram.list",
       "Clash/Telegram.yaml",
@@ -96,6 +528,24 @@
       "Shadowrocket/Telegram.list",
       "Shadowrocket/Telegram_Resolve.list",
       "Egern/Telegram.yaml"
+    ],
+    "Threads": [
+      "Surge/Threads.list",
+      "Clash/Threads.yaml",
+      "Loon/Threads.list",
+      "QuantumultX/Threads.list",
+      "Shadowrocket/Threads.list",
+      "Shadowrocket/Threads_Resolve.list",
+      "Egern/Threads.yaml"
+    ],
+    "TikTok": [
+      "Surge/TikTok.list",
+      "Clash/TikTok.yaml",
+      "Loon/TikTok.list",
+      "QuantumultX/TikTok.list",
+      "Shadowrocket/TikTok.list",
+      "Shadowrocket/TikTok_Resolve.list",
+      "Egern/TikTok.yaml"
     ],
     "Tiktok": [
       "Surge/Tiktok.list",
@@ -115,6 +565,78 @@
       "Shadowrocket/Twitch_Resolve.list",
       "Egern/Twitch.yaml"
     ],
+    "Twitter": [
+      "Surge/Twitter.list",
+      "Clash/Twitter.yaml",
+      "Loon/Twitter.list",
+      "QuantumultX/Twitter.list",
+      "Shadowrocket/Twitter.list",
+      "Shadowrocket/Twitter_Resolve.list",
+      "Egern/Twitter.yaml"
+    ],
+    "Ubisoft": [
+      "Surge/Ubisoft.list",
+      "Clash/Ubisoft.yaml",
+      "Loon/Ubisoft.list",
+      "QuantumultX/Ubisoft.list",
+      "Shadowrocket/Ubisoft.list",
+      "Shadowrocket/Ubisoft_Resolve.list",
+      "Egern/Ubisoft.yaml"
+    ],
+    "VK": [
+      "Surge/VK.list",
+      "Clash/VK.yaml",
+      "Loon/VK.list",
+      "QuantumultX/VK.list",
+      "Shadowrocket/VK.list",
+      "Shadowrocket/VK_Resolve.list",
+      "Egern/VK.yaml"
+    ],
+    "Vercel": [
+      "Surge/Vercel.list",
+      "Clash/Vercel.yaml",
+      "Loon/Vercel.list",
+      "QuantumultX/Vercel.list",
+      "Shadowrocket/Vercel.list",
+      "Shadowrocket/Vercel_Resolve.list",
+      "Egern/Vercel.yaml"
+    ],
+    "Vimeo": [
+      "Surge/Vimeo.list",
+      "Clash/Vimeo.yaml",
+      "Loon/Vimeo.list",
+      "QuantumultX/Vimeo.list",
+      "Shadowrocket/Vimeo.list",
+      "Shadowrocket/Vimeo_Resolve.list",
+      "Egern/Vimeo.yaml"
+    ],
+    "Weibo": [
+      "Surge/Weibo.list",
+      "Clash/Weibo.yaml",
+      "Loon/Weibo.list",
+      "QuantumultX/Weibo.list",
+      "Shadowrocket/Weibo.list",
+      "Shadowrocket/Weibo_Resolve.list",
+      "Egern/Weibo.yaml"
+    ],
+    "Whatsapp": [
+      "Surge/Whatsapp.list",
+      "Clash/Whatsapp.yaml",
+      "Loon/Whatsapp.list",
+      "QuantumultX/Whatsapp.list",
+      "Shadowrocket/Whatsapp.list",
+      "Shadowrocket/Whatsapp_Resolve.list",
+      "Egern/Whatsapp.yaml"
+    ],
+    "Wikipedia": [
+      "Surge/Wikipedia.list",
+      "Clash/Wikipedia.yaml",
+      "Loon/Wikipedia.list",
+      "QuantumultX/Wikipedia.list",
+      "Shadowrocket/Wikipedia.list",
+      "Shadowrocket/Wikipedia_Resolve.list",
+      "Egern/Wikipedia.yaml"
+    ],
     "YouTube": [
       "Surge/YouTube.list",
       "Clash/YouTube.yaml",
@@ -123,6 +645,24 @@
       "Shadowrocket/YouTube.list",
       "Shadowrocket/YouTube_Resolve.list",
       "Egern/YouTube.yaml"
+    ],
+    "YouTubeMusic": [
+      "Surge/YouTubeMusic.list",
+      "Clash/YouTubeMusic.yaml",
+      "Loon/YouTubeMusic.list",
+      "QuantumultX/YouTubeMusic.list",
+      "Shadowrocket/YouTubeMusic.list",
+      "Shadowrocket/YouTubeMusic_Resolve.list",
+      "Egern/YouTubeMusic.yaml"
+    ],
+    "Zhihu": [
+      "Surge/Zhihu.list",
+      "Clash/Zhihu.yaml",
+      "Loon/Zhihu.list",
+      "QuantumultX/Zhihu.list",
+      "Shadowrocket/Zhihu.list",
+      "Shadowrocket/Zhihu_Resolve.list",
+      "Egern/Zhihu.yaml"
     ]
   }
 }

@@ -1,0 +1,21 @@
+#======================================================
+#  RuleMesh Rule Set (Loon)
+#  Service:    AppleMusic
+#  Generated:  2026-08-20T21:52:24.375Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:648a3f707686d2902fabb92577fc438b19138632
+#------------------------------------------------------
+#  Types:      DOMAIN×6  DOMAIN-SUFFIX×3  PROCESS-NAME×1
+#======================================================
+
+DOMAIN,aod-ssl.itunes.apple.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,audio-ssl.itunes.apple.com
+DOMAIN,audio.itunes.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,applemusic.com
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN-SUFFIX,music.apple.com
+
+# note: 1 rule(s) unsupported by Loon, skipped: PROCESS-NAME×1

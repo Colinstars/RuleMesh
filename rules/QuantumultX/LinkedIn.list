@@ -1,0 +1,22 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    LinkedIn
+#  Generated:  2026-08-20T21:52:24.388Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:62ae02536db9325db4b14eff377219beb7023821
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×9  DOMAIN×3
+#======================================================
+
+host,e122475.dscg.akamaiedge.net
+host,licdn.cn.cdn20.com
+host,linkedin.sc.omtrdc.net
+host-suffix,bizographics.com
+host-suffix,l-0005.dc-msedge.net
+host-suffix,l-0005.l-msedge.net
+host-suffix,licdn.cn
+host-suffix,licdn.com
+host-suffix,linkedin.at
+host-suffix,linkedin.cn
+host-suffix,linkedin.com
+host-suffix,lnkd.in

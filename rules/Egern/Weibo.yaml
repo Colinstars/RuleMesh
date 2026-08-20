@@ -1,0 +1,16 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Weibo
+#  Generated:  2026-08-20T21:52:24.429Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:fffce9f5624acdab1a900ff22b92566483074270
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×3  DOMAIN-KEYWORD×1
+#==========================================================
+
+domain_suffix_set:
+  - "weibo.cn"
+  - "weibo.com"
+  - "weibocdn.com"
+domain_keyword_set:
+  - "weibo"

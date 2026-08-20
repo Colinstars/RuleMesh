@@ -1,0 +1,19 @@
+#======================================================
+#  RuleMesh Rule Set (Clash)
+#  Service:    ParamountPlus
+#  Generated:  2026-08-20T21:52:24.372Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:eab26a2eab97eaee0a2a3a15068386f08bf0337b
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×5  DOMAIN×4
+#======================================================
+
+DOMAIN,cbsi.live.ott.irdeto.com
+DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN,cbsservice.aws.syncbak.com
+DOMAIN,link.theplatform.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com

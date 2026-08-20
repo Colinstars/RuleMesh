@@ -1,0 +1,25 @@
+#======================================================
+#  RuleMesh Rule Set (Loon)
+#  Service:    Epic
+#  Generated:  2026-08-20T21:52:24.377Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a214175066c5af414696d32ebf9649218a8111bc
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×15
+#======================================================
+
+DOMAIN-SUFFIX,battlebreakers.com
+DOMAIN-SUFFIX,eac-cdn.com
+DOMAIN-SUFFIX,easy.ac
+DOMAIN-SUFFIX,easyanticheat.net
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,fortnite.com
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,playparagon.com
+DOMAIN-SUFFIX,roborecall.com
+DOMAIN-SUFFIX,shadowcomplex.com
+DOMAIN-SUFFIX,spyjinx.com
+DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,unrealtournament.com

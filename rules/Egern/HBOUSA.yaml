@@ -1,0 +1,24 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    HBOUSA
+#  Generated:  2026-08-20T21:52:24.425Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a5ecc01050e587656c343e81eca8ff142fa0e4f5
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×9  DOMAIN×1  PROCESS-NAME×1
+#==========================================================
+
+domain_set:
+  - "wmff.warnermediacdn.com"
+domain_suffix_set:
+  - "cinemax.com"
+  - "discomax.com"
+  - "h264.io"
+  - "hbomax.com"
+  - "hbomaxcdn.com"
+  - "hbomaxdash.s.llnwi.net"
+  - "hbonow.com"
+  - "max.com"
+  - "maxgo.com"
+
+# note: 1 rule(s) unsupported by Egern, skipped: PROCESS-NAME×1

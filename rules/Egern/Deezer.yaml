@@ -1,0 +1,13 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Deezer
+#  Generated:  2026-08-20T21:52:24.419Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:528888a08290543fe989d3c5effe8d82e428f2d7
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×2
+#==========================================================
+
+domain_suffix_set:
+  - "deezer.com"
+  - "dzcdn.net"

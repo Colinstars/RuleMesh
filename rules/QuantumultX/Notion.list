@@ -1,0 +1,16 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Notion
+#  Generated:  2026-08-20T21:52:24.390Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:1936bb49af41546c5293a74ef652b647835358cc
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×5  DOMAIN×1
+#======================================================
+
+host,http-inputs-notion.splunkcloud.com
+host-suffix,notion-static.com
+host-suffix,notion.com
+host-suffix,notion.new
+host-suffix,notion.site
+host-suffix,notion.so

@@ -1,0 +1,29 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    PrimeVideo
+#  Generated:  2026-08-20T21:52:24.428Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:05e2bcd164da0c95511fc257fdb06466c4d40307
+#----------------------------------------------------------
+#  Types:      DOMAIN×9  DOMAIN-SUFFIX×6  DOMAIN-KEYWORD×1
+#==========================================================
+
+domain_set:
+  - "atv-ps.amazon.com"
+  - "avodmp4s3ww-a.akamaihd.net"
+  - "d1v5ir2lpwr8os.cloudfront.net"
+  - "d22qjgkvxw22r6.cloudfront.net"
+  - "d25xi40x97liuc.cloudfront.net"
+  - "d27xxe7juh1us6.cloudfront.net"
+  - "dmqdd6hw24ucf.cloudfront.net"
+  - "fls-na.amazon.com"
+  - "www.amazon.com"
+domain_suffix_set:
+  - "aiv-cdn.net"
+  - "aiv-delivery.net"
+  - "amazonvideo.com"
+  - "media-amazon.com"
+  - "primevideo.com"
+  - "pv-cdn.net"
+domain_keyword_set:
+  - "avoddashs"

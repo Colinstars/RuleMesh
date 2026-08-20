@@ -1,0 +1,12 @@
+#======================================================
+#  RuleMesh Rule Set (Clash)
+#  Service:    Deezer
+#  Generated:  2026-08-20T21:52:24.366Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:528888a08290543fe989d3c5effe8d82e428f2d7
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×2
+#======================================================
+
+DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,dzcdn.net

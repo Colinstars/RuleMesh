@@ -1,0 +1,18 @@
+#======================================================
+#  RuleMesh Rule Set (Clash)
+#  Service:    AppleTV
+#  Generated:  2026-08-20T21:52:24.365Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:5b28b2222792a900cb4598d0ccd68ae8c01ead70
+#------------------------------------------------------
+#  Types:      DOMAIN×6  DOMAIN-SUFFIX×1  PROCESS-NAME×1
+#======================================================
+
+DOMAIN,hls-amt.itunes.apple.com
+DOMAIN,hls.itunes.apple.com
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN,tv.applemusic.com
+DOMAIN,uts-api.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+PROCESS-NAME,TV

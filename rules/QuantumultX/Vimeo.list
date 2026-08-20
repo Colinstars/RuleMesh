@@ -1,0 +1,26 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Vimeo
+#  Generated:  2026-08-20T21:52:24.391Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a839f09b00de1da1d2aec07bb0e68680637cdd6e
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×16
+#======================================================
+
+host-suffix,livestream.com
+host-suffix,vhx.tv
+host-suffix,vhxqa1.com
+host-suffix,vhxqa2.com
+host-suffix,vhxqa3.com
+host-suffix,vhxqa4.com
+host-suffix,vhxqa6.com
+host-suffix,vimeo-staging.com
+host-suffix,vimeo-staging2.com
+host-suffix,vimeo.com
+host-suffix,vimeo.fr
+host-suffix,vimeobusiness.com
+host-suffix,vimeocdn.com
+host-suffix,vimeogoods.com
+host-suffix,vimeoondemand.com
+host-suffix,vimeostatus.com

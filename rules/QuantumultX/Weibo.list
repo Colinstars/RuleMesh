@@ -1,0 +1,14 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Weibo
+#  Generated:  2026-08-20T21:52:24.391Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:fffce9f5624acdab1a900ff22b92566483074270
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×3  DOMAIN-KEYWORD×1
+#======================================================
+
+host-suffix,weibo.cn
+host-suffix,weibo.com
+host-suffix,weibocdn.com
+host-keyword,weibo

@@ -1,0 +1,21 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Zhihu
+#  Generated:  2026-08-20T21:52:24.430Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:08131ebbd12bc17964e2e154d6ebcd20504028af
+#----------------------------------------------------------
+#  Types:      IP-CIDR×4  DOMAIN-SUFFIX×2  IP-CIDR6×1
+#==========================================================
+no_resolve: true
+
+domain_suffix_set:
+  - "zhihu.com"
+  - "zhimg.com"
+ip_cidr_set:
+  - "103.41.167.226/32"
+  - "103.41.167.234/31"
+  - "103.41.167.236/32"
+  - "118.89.204.198/32"
+ip_cidr6_set:
+  - "2402:4e00:1200:ed00:0:9089:6dac:96b6/128"

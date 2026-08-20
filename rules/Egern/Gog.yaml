@@ -1,0 +1,16 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Gog
+#  Generated:  2026-08-20T21:52:24.422Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a7d89c7b173803ced35043c67f0983e45b7faeed
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×3  DOMAIN×1
+#==========================================================
+
+domain_set:
+  - "gog.salesmanago.com"
+domain_suffix_set:
+  - "gog-statics.com"
+  - "gog.com"
+  - "gog.qtlglb.com"

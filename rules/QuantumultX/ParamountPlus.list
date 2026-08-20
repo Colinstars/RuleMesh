@@ -1,0 +1,19 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    ParamountPlus
+#  Generated:  2026-08-20T21:52:24.390Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:eab26a2eab97eaee0a2a3a15068386f08bf0337b
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×5  DOMAIN×4
+#======================================================
+
+host,cbsi.live.ott.irdeto.com
+host,cbsplaylistserver.aws.syncbak.com
+host,cbsservice.aws.syncbak.com
+host,link.theplatform.com
+host-suffix,cbsaavideo.com
+host-suffix,cbsi.com
+host-suffix,cbsivideo.com
+host-suffix,paramountplus.com
+host-suffix,pplusstatic.com

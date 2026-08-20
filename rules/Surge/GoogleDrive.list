@@ -1,0 +1,17 @@
+#==========================================================
+#  RuleMesh Rule Set
+#  Service:    GoogleDrive
+#  Generated:  2026-08-20T21:52:24.357Z
+#  Version:    1
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:9e51eaa2e83b9673701f7507db95b5b98db3e342
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×4  DOMAIN×1  PROCESS-NAME×1
+#==========================================================
+
+DOMAIN,www.googleapis.com
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,googleusercontent.com
+PROCESS-NAME,BackupandSync

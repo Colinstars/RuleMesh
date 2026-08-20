@@ -1,11 +1,11 @@
 #======================================================
 #  RuleMesh Rule Set (QuantumultX)
 #  Service:    Hulu
-#  Generated:  2026-08-20T21:25:35.785Z
+#  Generated:  2026-08-20T21:52:24.388Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:f7f0ea0fe2022057eb682d4979091e6d091beaf4
+#  Fingerprint:a66388954e031c2b7dc17712ec7a8b19d05281e8
 #------------------------------------------------------
-#  Types:      DOMAIN-SUFFIX×52  PROCESS-NAME×1
+#  Types:      DOMAIN-SUFFIX×57  PROCESS-NAME×1  DOMAIN×1
 #======================================================
 
 host-suffix,112263.com
@@ -60,5 +60,11 @@ host-suffix,prod.hjholdings.tv
 host-suffix,registerhulu.com
 host-suffix,thehulubraintrust.com
 host-suffix,wwwhuluplus.com
+host,live-mediashield-ava-hulustream-com.akamaized.net
+host-suffix,happyon.jp
+host-suffix,hjholdings.jp
+host-suffix,hulu.jp
+host-suffix,streaks.jp
+host-suffix,yb.uncn.jp
 
 # note: 1 rule(s) unsupported by QuantumultX, skipped: PROCESS-NAME×1

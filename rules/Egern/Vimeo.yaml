@@ -1,0 +1,27 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Vimeo
+#  Generated:  2026-08-20T21:52:24.429Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a839f09b00de1da1d2aec07bb0e68680637cdd6e
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×16
+#==========================================================
+
+domain_suffix_set:
+  - "livestream.com"
+  - "vhx.tv"
+  - "vhxqa1.com"
+  - "vhxqa2.com"
+  - "vhxqa3.com"
+  - "vhxqa4.com"
+  - "vhxqa6.com"
+  - "vimeo-staging.com"
+  - "vimeo-staging2.com"
+  - "vimeo.com"
+  - "vimeo.fr"
+  - "vimeobusiness.com"
+  - "vimeocdn.com"
+  - "vimeogoods.com"
+  - "vimeoondemand.com"
+  - "vimeostatus.com"

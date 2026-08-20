@@ -1,0 +1,30 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    OneDrive
+#  Generated:  2026-08-20T21:52:24.427Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:7414797d09dde48ca24918de0b6e893c3ea349af
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×13  DOMAIN-KEYWORD×3  PROCESS-NAME×2
+#==========================================================
+
+domain_suffix_set:
+  - "1drv.com"
+  - "livefilestore.com"
+  - "microsoftpersonalcontent.com"
+  - "oneclient.sfx.ms"
+  - "onedrive.com"
+  - "onedrive.live.com"
+  - "photos.live.com"
+  - "sharepoint.com"
+  - "sharepointonline.com"
+  - "skydrive.wns.windows.com"
+  - "spoprod-a.akamaihd.net"
+  - "storage.live.com"
+  - "storage.msn.com"
+domain_keyword_set:
+  - "1drv"
+  - "onedrive"
+  - "skydrive"
+
+# note: 2 rule(s) unsupported by Egern, skipped: PROCESS-NAME×2

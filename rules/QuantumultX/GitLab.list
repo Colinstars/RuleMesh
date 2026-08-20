@@ -1,0 +1,16 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    GitLab
+#  Generated:  2026-08-20T21:52:24.387Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:d9b670eebcaa4705014037da545c97f530f42461
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×6
+#======================================================
+
+host-suffix,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+host-suffix,gitlab-static.net
+host-suffix,gitlab.com
+host-suffix,gitlab.net
+host-suffix,gitter-static.net
+host-suffix,gitter.im

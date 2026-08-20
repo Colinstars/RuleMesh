@@ -1,0 +1,12 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    YouTubeMusic
+#  Generated:  2026-08-20T21:52:24.430Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:afcb435ebb4d409be7c9af4df9a4dc2206644fca
+#----------------------------------------------------------
+#  Types:      DOMAIN×1
+#==========================================================
+
+domain_set:
+  - "music.youtube.com"

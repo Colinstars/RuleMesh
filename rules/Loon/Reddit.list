@@ -1,0 +1,18 @@
+#======================================================
+#  RuleMesh Rule Set (Loon)
+#  Service:    Reddit
+#  Generated:  2026-08-20T21:52:24.382Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:0429a8537d58f9409ab94051f1ae49d3a884fad3
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×8
+#======================================================
+
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddituploads.com
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com

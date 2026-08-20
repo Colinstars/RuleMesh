@@ -1,0 +1,14 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    DigitalOcean
+#  Generated:  2026-08-20T21:52:24.386Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:57494ddbe110af9e53267057dfdf5a404f209c5f
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×4
+#======================================================
+
+host-suffix,digitalocean.com
+host-suffix,digitaloceanspaces.com
+host-suffix,do.co
+host-suffix,nginxconfig.io

@@ -1,0 +1,22 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Slack
+#  Generated:  2026-08-20T21:52:24.428Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:af603636e3f49425e1eb4b327490f8cda5d66ecd
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×11
+#==========================================================
+
+domain_suffix_set:
+  - "slack-core.com"
+  - "slack-edge.com"
+  - "slack-files.com"
+  - "slack-imgs.com"
+  - "slack-msgs.com"
+  - "slack-redir.net"
+  - "slack.com"
+  - "slackb.com"
+  - "slackcertified.com"
+  - "slackdemo.com"
+  - "slackhq.com"

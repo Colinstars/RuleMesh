@@ -1,0 +1,17 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    VK
+#  Generated:  2026-08-20T21:52:24.391Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:56a719fc1ed4409c4dfa20bc51e7a6b869895779
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×7
+#======================================================
+
+host-suffix,mvk.com
+host-suffix,userapi.com
+host-suffix,vk-cdn.me
+host-suffix,vk-cdn.net
+host-suffix,vk-portal.net
+host-suffix,vk.cc
+host-suffix,vk.com

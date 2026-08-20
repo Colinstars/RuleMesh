@@ -1,0 +1,15 @@
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
+#  Service:    Dailymotion
+#  Generated:  2026-08-20T21:52:24.393Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:e80fcfcb808a6ed2784b85326d28c398b2bd3eb3
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×5
+#==========================================================
+
+DOMAIN-SUFFIX,dai.ly
+DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dm-event.net
+DOMAIN-SUFFIX,dmcdn.net
+DOMAIN-SUFFIX,dmxleo.com

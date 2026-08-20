@@ -1,0 +1,37 @@
+#======================================================
+#  RuleMesh Rule Set (QuantumultX)
+#  Service:    Vercel
+#  Generated:  2026-08-20T21:52:24.391Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:4d094e644371005072f15e0cc720392fb4c54217
+#------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×27
+#======================================================
+
+host-suffix,err.sh
+host-suffix,hyper.is
+host-suffix,nextjs.org
+host-suffix,now.sh
+host-suffix,static.fun
+host-suffix,title.sh
+host-suffix,turborepo.org
+host-suffix,vercel-analytics.com
+host-suffix,vercel-dns.com
+host-suffix,vercel-insights.com
+host-suffix,vercel-status.com
+host-suffix,vercel.app
+host-suffix,vercel.blog
+host-suffix,vercel.com
+host-suffix,vercel.events
+host-suffix,vercel.link
+host-suffix,vercel.live
+host-suffix,vercel.pub
+host-suffix,vercel.sh
+host-suffix,vercel.store
+host-suffix,zeit-world.co.uk
+host-suffix,zeit-world.com
+host-suffix,zeit-world.net
+host-suffix,zeit-world.org
+host-suffix,zeit.co
+host-suffix,zeit.sh
+host-suffix,zeitworld.com

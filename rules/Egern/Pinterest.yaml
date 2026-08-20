@@ -1,0 +1,34 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Pinterest
+#  Generated:  2026-08-20T21:52:24.427Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:19d3cf85c935808ff4ff8e1eb68f8c64965aafb6
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×23
+#==========================================================
+
+domain_suffix_set:
+  - "pinimg.com"
+  - "pinterest.at"
+  - "pinterest.ca"
+  - "pinterest.ch"
+  - "pinterest.cl"
+  - "pinterest.co.kr"
+  - "pinterest.co.uk"
+  - "pinterest.com"
+  - "pinterest.com.au"
+  - "pinterest.com.mx"
+  - "pinterest.de"
+  - "pinterest.dk"
+  - "pinterest.es"
+  - "pinterest.fr"
+  - "pinterest.ie"
+  - "pinterest.it"
+  - "pinterest.jp"
+  - "pinterest.nl"
+  - "pinterest.nz"
+  - "pinterest.ph"
+  - "pinterest.pt"
+  - "pinterest.ru"
+  - "pinterest.se"

@@ -1,0 +1,12 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Threads
+#  Generated:  2026-08-20T21:52:24.428Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:6754773a3ac635edd987cb5dbc50a783de7421ba
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×1
+#==========================================================
+
+domain_suffix_set:
+  - "threads.net"
