@@ -1,11 +1,11 @@
 #======================================================
 #  RuleMesh Rule Set (Clash)
 #  Service:    Intelligence
-#  Generated:  2026-08-20T22:50:02.970Z
+#  Generated:  2026-08-20T22:55:52.109Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:243c8207a478575b85435edcb32026659b12d944
+#  Fingerprint:f9248eb0114bd3569c8ec6e4f060714f82acfc75
 #------------------------------------------------------
-#  Types:      DOMAIN-SUFFIX×17  DOMAIN-KEYWORD×1
+#  Types:      DOMAIN-SUFFIX×16  DOMAIN-KEYWORD×1
 #======================================================
 
 DOMAIN-SUFFIX,gateway.icloud.com
@@ -24,5 +24,4 @@ DOMAIN-SUFFIX,mask-api.icloud.com
 DOMAIN-SUFFIX,mask.apple-dns.net
 DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
 DOMAIN-SUFFIX,mask-t.apple-dns.net
-DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-KEYWORD,siri

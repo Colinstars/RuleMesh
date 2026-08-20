@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:50:03.137Z",
+  "generatedAt": "2026-08-20T22:55:52.275Z",
   "version": 1,
   "services": [
     "360",
@@ -146,7 +146,7 @@
     "Egern"
   ],
   "files": 938,
-  "rules": 32480,
+  "rules": 32479,
   "byService": {
     "360": [
       "Surge/360.list",

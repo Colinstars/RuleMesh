@@ -1,12 +1,12 @@
 #==========================================================
 #  RuleMesh Rule Set
 #  Service:    AI
-#  Generated:  2026-08-20T22:50:02.949Z
+#  Generated:  2026-08-20T22:55:52.072Z
 #  Version:    1
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:6e7eca73c57e945b94301eb4331d40eb033c6139
+#  Fingerprint:2799d981a8a55c85c0809a484b610381b1b13173
 #----------------------------------------------------------
-#  Types:      DOMAIN-SUFFIX×81  DOMAIN×27  DOMAIN-KEYWORD×6  IP-ASN×2  IP-CIDR×2
+#  Types:      DOMAIN-SUFFIX×80  DOMAIN×27  DOMAIN-KEYWORD×6  IP-ASN×2  IP-CIDR×2
 #==========================================================
 
 DOMAIN,browser-intake-datadoghq.com
@@ -93,7 +93,6 @@ DOMAIN-SUFFIX,mask-api.icloud.com
 DOMAIN-SUFFIX,mask.apple-dns.net
 DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
 DOMAIN-SUFFIX,mask-t.apple-dns.net
-DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-KEYWORD,siri
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,grok.com

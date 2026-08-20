@@ -1,11 +1,11 @@
 #==========================================================
 #  RuleMesh Rule Set (Egern)
 #  Service:    AI
-#  Generated:  2026-08-20T22:50:03.136Z
+#  Generated:  2026-08-20T22:55:52.275Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:6e7eca73c57e945b94301eb4331d40eb033c6139
+#  Fingerprint:2799d981a8a55c85c0809a484b610381b1b13173
 #----------------------------------------------------------
-#  Types:      DOMAIN-SUFFIX×81  DOMAIN×27  DOMAIN-KEYWORD×6  IP-ASN×2  IP-CIDR×2
+#  Types:      DOMAIN-SUFFIX×80  DOMAIN×27  DOMAIN-KEYWORD×6  IP-ASN×2  IP-CIDR×2
 #==========================================================
 no_resolve: true
 
@@ -91,7 +91,6 @@ domain_suffix_set:
   - "mask.apple-dns.net"
   - "mask-api.fe.apple-dns.net"
   - "mask-t.apple-dns.net"
-  - "apps.mzstatic.com"
   - "grok.com"
   - "x.ai"
   - "perplexity.ai"
