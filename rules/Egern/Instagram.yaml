@@ -1,0 +1,16 @@
+#==========================================================
+#  RuleMesh Rule Set (Egern)
+#  Service:    Instagram
+#  Generated:  2026-08-20T20:50:30.684Z
+#  Source:     blackmatrix7/ios_rule_script + user submissions
+#  Fingerprint:a137af5396c14f5e1d72333fcb1ea10e85b4d8cb
+#----------------------------------------------------------
+#  Types:      DOMAIN-SUFFIX×3  DOMAIN-KEYWORD×1
+#==========================================================
+
+domain_suffix_set:
+  - "cdninstagram.com"
+  - "instagr.am"
+  - "instagram.com"
+domain_keyword_set:
+  - "instagram"

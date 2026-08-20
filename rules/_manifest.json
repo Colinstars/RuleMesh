@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-08-20T20:40:44.487Z",
+  "generatedAt": "2026-08-20T20:50:30.690Z",
   "version": 1,
   "services": [
     "China",
+    "Instagram",
     "Netflix",
     "Spotify",
     "Telegram",
@@ -16,8 +17,8 @@
     "Shadowrocket",
     "Egern"
   ],
-  "files": 35,
-  "rules": 1295,
+  "files": 42,
+  "rules": 1299,
   "byService": {
     "China": [
       "Surge/China.list",
@@ -27,6 +28,15 @@
       "Shadowrocket/China.list",
       "Shadowrocket/China_Resolve.list",
       "Egern/China.yaml"
+    ],
+    "Instagram": [
+      "Surge/Instagram.list",
+      "Clash/Instagram.yaml",
+      "Loon/Instagram.list",
+      "QuantumultX/Instagram.list",
+      "Shadowrocket/Instagram.list",
+      "Shadowrocket/Instagram_Resolve.list",
+      "Egern/Instagram.yaml"
     ],
     "Netflix": [
       "Surge/Netflix.list",
