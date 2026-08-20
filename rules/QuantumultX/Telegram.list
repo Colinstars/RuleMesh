@@ -1,9 +1,9 @@
 #======================================================
 #  RuleMesh Rule Set (QuantumultX)
 #  Service:    Telegram
-#  Generated:  2026-08-20T18:36:44.148Z
+#  Generated:  2026-08-20T18:40:00.120Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:e9cad76b2a87624ab6c8212c294f990e5214ce1d
+#  Fingerprint:638ac08a50e2271b39282674530bd65b8ede19e2
 #------------------------------------------------------
 #  Types:      DOMAIN-SUFFIX×22  IP-CIDR×6  PROCESS-NAME×5  IP-ASN×5  IP-CIDR6×4  DOMAIN×2  DOMAIN-KEYWORD×1
 #======================================================
@@ -43,10 +43,10 @@ ip6-cidr,2001:67c:4e8::/48,no-resolve
 ip6-cidr,2001:b28:f23c::/47,no-resolve
 ip6-cidr,2001:b28:f23f::/48,no-resolve
 ip6-cidr,2a0a:f280::/29,no-resolve
-ip-asn,211157,no-resolve,no-resolve
-ip-asn,44907,no-resolve,no-resolve
-ip-asn,59930,no-resolve,no-resolve
-ip-asn,62014,no-resolve,no-resolve
-ip-asn,62041,no-resolve,no-resolve
+ip-asn,211157,no-resolve
+ip-asn,44907,no-resolve
+ip-asn,59930,no-resolve
+ip-asn,62014,no-resolve
+ip-asn,62041,no-resolve
 
 # note: 5 rule(s) unsupported by QuantumultX, skipped: PROCESS-NAME×5

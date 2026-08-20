@@ -1,9 +1,9 @@
 #==========================================================
 #  RuleMesh Rule Set (Egern)
 #  Service:    Telegram
-#  Generated:  2026-08-20T18:36:44.162Z
+#  Generated:  2026-08-20T18:40:00.130Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:e9cad76b2a87624ab6c8212c294f990e5214ce1d
+#  Fingerprint:638ac08a50e2271b39282674530bd65b8ede19e2
 #----------------------------------------------------------
 #  Types:      DOMAIN-SUFFIX×22  IP-CIDR×6  PROCESS-NAME×5  IP-ASN×5  IP-CIDR6×4  DOMAIN×2  DOMAIN-KEYWORD×1
 #==========================================================
@@ -50,10 +50,10 @@ ip_cidr6_set:
   - "2001:b28:f23f::/48"
   - "2a0a:f280::/29"
 asn_set:
-  - "AS211157,no-resolve"
-  - "AS44907,no-resolve"
-  - "AS59930,no-resolve"
-  - "AS62014,no-resolve"
-  - "AS62041,no-resolve"
+  - "AS211157"
+  - "AS44907"
+  - "AS59930"
+  - "AS62014"
+  - "AS62041"
 
 # note: 5 rule(s) unsupported by Egern, skipped: PROCESS-NAME×5
