@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-08-19T21:37:07.965Z",
+  "generatedAt": "2026-08-20T01:11:15.093Z",
   "version": 1,
   "services": [
     "Netflix",
+    "Spotify",
     "Telegram",
     "Tiktok"
   ],
-  "files": 12,
-  "rules": 1229
+  "files": 16,
+  "rules": 1259
 }
