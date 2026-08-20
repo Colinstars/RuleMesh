@@ -1,13 +1,15 @@
 {
-  "generatedAt": "2026-08-20T20:50:30.690Z",
+  "generatedAt": "2026-08-20T20:52:51.059Z",
   "version": 1,
   "services": [
     "China",
+    "Disney",
     "Instagram",
     "Netflix",
     "Spotify",
     "Telegram",
-    "Tiktok"
+    "Tiktok",
+    "YouTube"
   ],
   "clients": [
     "Surge",
@@ -17,8 +19,8 @@
     "Shadowrocket",
     "Egern"
   ],
-  "files": 42,
-  "rules": 1299,
+  "files": 56,
+  "rules": 1656,
   "byService": {
     "China": [
       "Surge/China.list",
@@ -28,6 +30,15 @@
       "Shadowrocket/China.list",
       "Shadowrocket/China_Resolve.list",
       "Egern/China.yaml"
+    ],
+    "Disney": [
+      "Surge/Disney.list",
+      "Clash/Disney.yaml",
+      "Loon/Disney.list",
+      "QuantumultX/Disney.list",
+      "Shadowrocket/Disney.list",
+      "Shadowrocket/Disney_Resolve.list",
+      "Egern/Disney.yaml"
     ],
     "Instagram": [
       "Surge/Instagram.list",
@@ -73,6 +84,15 @@
       "Shadowrocket/Tiktok.list",
       "Shadowrocket/Tiktok_Resolve.list",
       "Egern/Tiktok.yaml"
+    ],
+    "YouTube": [
+      "Surge/YouTube.list",
+      "Clash/YouTube.yaml",
+      "Loon/YouTube.list",
+      "QuantumultX/YouTube.list",
+      "Shadowrocket/YouTube.list",
+      "Shadowrocket/YouTube_Resolve.list",
+      "Egern/YouTube.yaml"
     ]
   }
 }
