@@ -1,10 +1,10 @@
 #==========================================================
 #  RuleMesh Rule Set
 #  Service:    Spotify
-#  Generated:  2026-08-20T12:48:20.824Z
+#  Generated:  2026-08-20T17:53:09.379Z
 #  Version:    1
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:f5485fbd4525bbdffca5a46da2cb8b6c83a2495d
+#  Fingerprint:9a83310449f12c7b06610a6a86be3f6b2d5bdf08
 #----------------------------------------------------------
 #  Types:      DOMAIN-SUFFIX×20  DOMAIN×6  IP-CIDR×2  DOMAIN-KEYWORD×1  PROCESS-NAME×1
 #==========================================================
@@ -36,6 +36,6 @@ DOMAIN-SUFFIX,spotifynewsroom.jp
 DOMAIN-SUFFIX,spotilocal.com
 DOMAIN-SUFFIX,tospotify.com
 DOMAIN-KEYWORD,spotify
-IP-CIDR,104.154.127.126/32,no-resolve
-IP-CIDR,35.186.224.47/32,no-resolve
+IP-CIDR,104.154.127.126/32
+IP-CIDR,35.186.224.47/32
 PROCESS-NAME,com.spotify.music
