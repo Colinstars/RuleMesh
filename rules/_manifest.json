@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-20T20:53:02.558Z",
+  "generatedAt": "2026-08-20T20:54:05.984Z",
   "version": 1,
   "services": [
     "China",
     "Disney",
+    "Hulu",
     "Instagram",
     "Netflix",
     "Spotify",
@@ -19,8 +20,8 @@
     "Shadowrocket",
     "Egern"
   ],
-  "files": 56,
-  "rules": 1656,
+  "files": 63,
+  "rules": 1709,
   "byService": {
     "China": [
       "Surge/China.list",
@@ -39,6 +40,15 @@
       "Shadowrocket/Disney.list",
       "Shadowrocket/Disney_Resolve.list",
       "Egern/Disney.yaml"
+    ],
+    "Hulu": [
+      "Surge/Hulu.list",
+      "Clash/Hulu.yaml",
+      "Loon/Hulu.list",
+      "QuantumultX/Hulu.list",
+      "Shadowrocket/Hulu.list",
+      "Shadowrocket/Hulu_Resolve.list",
+      "Egern/Hulu.yaml"
     ],
     "Instagram": [
       "Surge/Instagram.list",
