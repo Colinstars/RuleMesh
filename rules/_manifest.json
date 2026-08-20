@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:28:30.945Z",
+  "generatedAt": "2026-08-20T18:35:25.698Z",
   "version": 1,
   "services": [
     "Netflix",
@@ -16,7 +16,7 @@
     "Egern"
   ],
   "files": 28,
-  "rules": 1258,
+  "rules": 1263,
   "byService": {
     "Netflix": [
       "Surge/Netflix.list",
