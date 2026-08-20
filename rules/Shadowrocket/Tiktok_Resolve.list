@@ -1,12 +1,12 @@
-#======================================================
-#  RuleMesh Rule Set (Clash)
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
 #  Service:    Tiktok
-#  Generated:  2026-08-20T18:14:58.845Z
+#  Generated:  2026-08-20T18:14:58.854Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
 #  Fingerprint:c6f11d22aaaf62f3eacba2726d09c445268659fc
-#------------------------------------------------------
+#----------------------------------------------------------
 #  Types:      DOMAIN-SUFFIX×25  DOMAIN×4  DOMAIN-KEYWORD×2  PROCESS-NAME×1
-#======================================================
+#==========================================================
 
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
@@ -39,5 +39,4 @@ DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
-
-# note: 1 PROCESS-NAME rule(s) unsupported by Clash, skipped
+PROCESS-NAME,com.zhiliaoapp.musically

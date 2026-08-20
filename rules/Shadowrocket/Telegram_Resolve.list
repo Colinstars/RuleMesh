@@ -1,12 +1,12 @@
-#======================================================
-#  RuleMesh Rule Set (Loon)
+#==========================================================
+#  RuleMesh Rule Set (Shadowrocket)
 #  Service:    Telegram
-#  Generated:  2026-08-20T18:14:58.847Z
+#  Generated:  2026-08-20T18:14:58.853Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
 #  Fingerprint:596aafcde9595d64df03a2512e5410ce2fee6cfa
-#------------------------------------------------------
+#----------------------------------------------------------
 #  Types:      DOMAIN-SUFFIX×22  IP-CIDR×6  PROCESS-NAME×5  IP-CIDR6×4  DOMAIN×2  DOMAIN-KEYWORD×1
-#======================================================
+#==========================================================
 
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
@@ -33,15 +33,18 @@ DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-KEYWORD,nicegram
-IP-CIDR,109.239.140.0/24,no-resolve
-IP-CIDR,139.59.210.98/32,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR,196.55.216.167/32,no-resolve
-IP-CIDR,5.28.192.0/18,no-resolve
-IP-CIDR,91.108.0.0/16,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
-IP-CIDR6,2001:b28:f23c::/47,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
-IP-CIDR6,2a0a:f280::/29,no-resolve
-
-# note: 5 PROCESS-NAME rule(s) unsupported by Loon, skipped
+IP-CIDR,109.239.140.0/24
+IP-CIDR,139.59.210.98/32
+IP-CIDR,149.154.160.0/20
+IP-CIDR,196.55.216.167/32
+IP-CIDR,5.28.192.0/18
+IP-CIDR,91.108.0.0/16
+IP-CIDR6,2001:67c:4e8::/48
+IP-CIDR6,2001:b28:f23c::/47
+IP-CIDR6,2001:b28:f23f::/48
+IP-CIDR6,2a0a:f280::/29
+PROCESS-NAME,nekox.messenger
+PROCESS-NAME,org.telegram.messenger
+PROCESS-NAME,telegram-desktop
+PROCESS-NAME,tw.nekomimi.nekogram
+PROCESS-NAME,xyz.nextalone.nagram
