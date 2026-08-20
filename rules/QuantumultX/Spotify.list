@@ -1,7 +1,7 @@
 #======================================================
 #  RuleMesh Rule Set (QuantumultX)
 #  Service:    Spotify
-#  Generated:  2026-08-20T18:14:58.848Z
+#  Generated:  2026-08-20T18:25:01.625Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
 #  Fingerprint:9a83310449f12c7b06610a6a86be3f6b2d5bdf08
 #------------------------------------------------------
@@ -38,4 +38,4 @@ host-keyword,spotify
 ip-cidr,104.154.127.126/32,no-resolve
 ip-cidr,35.186.224.47/32,no-resolve
 
-# note: 1 rule(s) unsupported by QuantumultX, skipped
+# note: 1 rule(s) unsupported by QuantumultX, skipped: PROCESS-NAME×1

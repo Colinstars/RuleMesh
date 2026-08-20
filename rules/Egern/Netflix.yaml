@@ -1,7 +1,7 @@
 #==========================================================
 #  RuleMesh Rule Set (Egern)
 #  Service:    Netflix
-#  Generated:  2026-08-20T18:14:58.855Z
+#  Generated:  2026-08-20T18:25:01.632Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
 #  Fingerprint:3925e6446367ec87b782879704130ce6c6580b9c
 #----------------------------------------------------------
@@ -1170,4 +1170,4 @@ ip_cidr6_set:
   - "2a00:86c0::/32"
   - "2a03:5640::/32"
 
-# note: 1 rule(s) unsupported by Egern (PROCESS-NAME), skipped
+# note: 1 rule(s) unsupported by Egern, skipped: PROCESS-NAME×1

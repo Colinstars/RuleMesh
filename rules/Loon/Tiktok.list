@@ -1,7 +1,7 @@
 #======================================================
 #  RuleMesh Rule Set (Loon)
 #  Service:    Tiktok
-#  Generated:  2026-08-20T18:14:58.847Z
+#  Generated:  2026-08-20T18:25:01.623Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
 #  Fingerprint:c6f11d22aaaf62f3eacba2726d09c445268659fc
 #------------------------------------------------------
@@ -40,4 +40,4 @@ DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 
-# note: 1 PROCESS-NAME rule(s) unsupported by Loon, skipped
+# note: 1 rule(s) unsupported by Loon, skipped: PROCESS-NAME×1

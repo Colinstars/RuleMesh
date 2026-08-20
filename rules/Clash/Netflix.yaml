@@ -1,7 +1,7 @@
 #======================================================
 #  RuleMesh Rule Set (Clash)
 #  Service:    Netflix
-#  Generated:  2026-08-20T18:14:58.844Z
+#  Generated:  2026-08-20T18:25:01.620Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
 #  Fingerprint:3925e6446367ec87b782879704130ce6c6580b9c
 #------------------------------------------------------
@@ -1163,5 +1163,4 @@ IP-CIDR6,2607:fb10::/32,no-resolve
 IP-CIDR6,2620:10c:7000::/44,no-resolve
 IP-CIDR6,2a00:86c0::/32,no-resolve
 IP-CIDR6,2a03:5640::/32,no-resolve
-
-# note: 1 PROCESS-NAME rule(s) unsupported by Clash, skipped
+PROCESS-NAME,com.netflix.mediaclient
