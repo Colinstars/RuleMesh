@@ -1,9 +1,9 @@
 #======================================================
 #  RuleMesh Rule Set (QuantumultX)
 #  Service:    Spotify
-#  Generated:  2026-08-20T18:49:56.920Z
+#  Generated:  2026-08-20T20:35:39.265Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:9a83310449f12c7b06610a6a86be3f6b2d5bdf08
+#  Fingerprint:19d36e44f65df70e8ba43a1ae9bf76d17c5e4f6c
 #------------------------------------------------------
 #  Types:      DOMAIN-SUFFIX×20  DOMAIN×6  IP-CIDR×2  DOMAIN-KEYWORD×1  PROCESS-NAME×1
 #======================================================
@@ -35,7 +35,7 @@ host-suffix,spotifynewsroom.jp
 host-suffix,spotilocal.com
 host-suffix,tospotify.com
 host-keyword,spotify
-ip-cidr,104.154.127.126/32,no-resolve
 ip-cidr,35.186.224.47/32,no-resolve
+ip-cidr,104.154.127.126/32,no-resolve
 
 # note: 1 rule(s) unsupported by QuantumultX, skipped: PROCESS-NAME×1

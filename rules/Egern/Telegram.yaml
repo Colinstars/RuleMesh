@@ -1,9 +1,9 @@
 #==========================================================
 #  RuleMesh Rule Set (Egern)
 #  Service:    Telegram
-#  Generated:  2026-08-20T18:49:56.930Z
+#  Generated:  2026-08-20T20:35:39.275Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
-#  Fingerprint:638ac08a50e2271b39282674530bd65b8ede19e2
+#  Fingerprint:ca1f5d3ebd2ab9efa931d57d5a91921baae5f696
 #----------------------------------------------------------
 #  Types:      DOMAIN-SUFFIX×22  IP-CIDR×6  PROCESS-NAME×5  IP-ASN×5  IP-CIDR6×4  DOMAIN×2  DOMAIN-KEYWORD×1
 #==========================================================
@@ -38,12 +38,12 @@ domain_suffix_set:
 domain_keyword_set:
   - "nicegram"
 ip_cidr_set:
+  - "5.28.192.0/18"
+  - "91.108.0.0/16"
   - "109.239.140.0/24"
   - "139.59.210.98/32"
   - "149.154.160.0/20"
   - "196.55.216.167/32"
-  - "5.28.192.0/18"
-  - "91.108.0.0/16"
 ip_cidr6_set:
   - "2001:67c:4e8::/48"
   - "2001:b28:f23c::/47"
