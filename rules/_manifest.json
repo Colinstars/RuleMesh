@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:39:24.155Z",
+  "generatedAt": "2026-08-20T22:50:03.137Z",
   "version": 1,
   "services": [
     "360",
@@ -27,7 +27,6 @@
     "China",
     "ChinaIPs",
     "ChinaMedia",
-    "ChinaNoMedia",
     "Civitai",
     "Claude",
     "Cloudflare",
@@ -146,8 +145,8 @@
     "Shadowrocket",
     "Egern"
   ],
-  "files": 945,
-  "rules": 32506,
+  "files": 938,
+  "rules": 32480,
   "byService": {
     "360": [
       "Surge/360.list",
@@ -373,15 +372,6 @@
       "Shadowrocket/ChinaMedia.list",
       "Shadowrocket/ChinaMedia_Resolve.list",
       "Egern/ChinaMedia.yaml"
-    ],
-    "ChinaNoMedia": [
-      "Surge/ChinaNoMedia.list",
-      "Clash/ChinaNoMedia.yaml",
-      "Loon/ChinaNoMedia.list",
-      "QuantumultX/ChinaNoMedia.list",
-      "Shadowrocket/ChinaNoMedia.list",
-      "Shadowrocket/ChinaNoMedia_Resolve.list",
-      "Egern/ChinaNoMedia.yaml"
     ],
     "Civitai": [
       "Surge/Civitai.list",
