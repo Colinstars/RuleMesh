@@ -1,7 +1,7 @@
 #======================================================
 #  RuleMesh Rule Set (Clash)
 #  Service:    China
-#  behavior:  classical
+#  behavior:  domain
 #  Generated:  2026-08-20T20:38:42.762Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
 #  Fingerprint:5c209b17910842f67ff23123c790934530d78e69
@@ -10,14 +10,7 @@
 #======================================================
 
 payload:
-  - "DOMAIN-KEYWORD,.tmall.com"
-  - "DOMAIN-KEYWORD,alicdn"
-  - "DOMAIN-KEYWORD,alipay"
-  - "DOMAIN-KEYWORD,aliyun"
-  - "DOMAIN-KEYWORD,baidu"
-  - "DOMAIN-KEYWORD,beplay"
-  - "DOMAIN-KEYWORD,microsoft"
-  - "DOMAIN-KEYWORD,officecdn"
-  - "DOMAIN-KEYWORD,taobao"
+  - "+.cn"
+  - "+.ms"
 
-# 引用: rule-providers behavior: classical
+# 引用: rule-providers behavior: domain  (含子域: +. 前缀)

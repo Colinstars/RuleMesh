@@ -1,54 +1,15 @@
-#==========================================================
-#  RuleMesh Rule Set (Egern)
+#======================================================
+#  RuleMesh Rule Set (Clash)
 #  Service:    Netflix
-#  Generated:  2026-08-20T20:38:42.773Z
+#  behavior:  ipcidr
+#  Generated:  2026-08-20T20:38:42.765Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
 #  Fingerprint:2b403cad73ef821df25d03bad6e7eeb48082ba04
-#----------------------------------------------------------
+#------------------------------------------------------
 #  Types:      IP-CIDR×1115  DOMAIN-SUFFIX×30  DOMAIN-KEYWORD×4  IP-CIDR6×4  DOMAIN×2  PROCESS-NAME×1
-#==========================================================
-no_resolve: true
+#======================================================
 
-domain_set:
-  - "e13252.dscg.akamaiedge.net"
-  - "h-netflix.online-metrix.net"
-domain_suffix_set:
-  - "cookielaw.org"
-  - "fast.com"
-  - "flxvpn.net"
-  - "netflix.ca"
-  - "netflix.com"
-  - "netflix.com.au"
-  - "netflix.com.edgesuite.net"
-  - "netflix.net"
-  - "netflixdnstest0.com"
-  - "netflixdnstest1.com"
-  - "netflixdnstest10.com"
-  - "netflixdnstest2.com"
-  - "netflixdnstest3.com"
-  - "netflixdnstest4.com"
-  - "netflixdnstest5.com"
-  - "netflixdnstest6.com"
-  - "netflixdnstest7.com"
-  - "netflixdnstest8.com"
-  - "netflixdnstest9.com"
-  - "netflixinvestor.com"
-  - "netflixstudios.com"
-  - "netflixtechblog.com"
-  - "nflxext.com"
-  - "nflximg.com"
-  - "nflximg.net"
-  - "nflxsearch.net"
-  - "nflxso.net"
-  - "nflxvideo.net"
-  - "onetrust.com"
-  - "us-west-2.amazonaws.com"
-domain_keyword_set:
-  - "apiproxy-device-prod-nlb-"
-  - "dualstack.apiproxy-"
-  - "dualstack.ichnaea-web-"
-  - "netflixdnstest"
-ip_cidr_set:
+payload:
   - "3.0.5.32/29"
   - "3.0.5.224/27"
   - "3.6.70.76/30"
@@ -1164,10 +1125,9 @@ ip_cidr_set:
   - "210.0.153.0/24"
   - "218.102.32.0/19"
   - "219.76.0.0/17"
-ip_cidr6_set:
   - "2607:fb10::/32"
   - "2620:10c:7000::/44"
   - "2a00:86c0::/32"
   - "2a03:5640::/32"
 
-# note: 1 rule(s) unsupported by Egern, skipped: PROCESS-NAME×1
+# 引用: rule-providers behavior: ipcidr  (主规则加 no-resolve)

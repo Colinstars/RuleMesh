@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T20:38:14.716Z",
+  "generatedAt": "2026-08-20T20:38:42.775Z",
   "version": 1,
   "services": [
     "China",
@@ -16,7 +16,7 @@
     "Shadowrocket",
     "Egern"
   ],
-  "files": 35,
+  "files": 45,
   "rules": 1295,
   "byService": {
     "China": [

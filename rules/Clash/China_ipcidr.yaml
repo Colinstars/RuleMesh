@@ -1,28 +1,15 @@
-#==========================================================
-#  RuleMesh Rule Set (Egern)
+#======================================================
+#  RuleMesh Rule Set (Clash)
 #  Service:    China
-#  Generated:  2026-08-20T20:38:42.772Z
+#  behavior:  ipcidr
+#  Generated:  2026-08-20T20:38:42.762Z
 #  Source:     blackmatrix7/ios_rule_script + user submissions
 #  Fingerprint:5c209b17910842f67ff23123c790934530d78e69
-#----------------------------------------------------------
+#------------------------------------------------------
 #  Types:      IP-CIDR×11  DOMAIN-KEYWORD×9  IP-CIDR6×4  DOMAIN-SUFFIX×2
-#==========================================================
-no_resolve: true
+#======================================================
 
-domain_suffix_set:
-  - "cn"
-  - "ms"
-domain_keyword_set:
-  - ".tmall.com"
-  - "alicdn"
-  - "alipay"
-  - "aliyun"
-  - "baidu"
-  - "beplay"
-  - "microsoft"
-  - "officecdn"
-  - "taobao"
-ip_cidr_set:
+payload:
   - "1.255.62.0/24"
   - "101.32.96.0/20"
   - "101.32.118.0/23"
@@ -34,8 +21,9 @@ ip_cidr_set:
   - "185.188.32.0/22"
   - "203.205.238.0/23"
   - "203.205.254.0/23"
-ip_cidr6_set:
   - "2a0b:b580::/48"
   - "2a0b:b581::/48"
   - "2a0b:b582::/48"
   - "2a0b:b583::/48"
+
+# 引用: rule-providers behavior: ipcidr  (主规则加 no-resolve)
